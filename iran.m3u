@@ -421,3 +421,1541 @@ https://unirtmp.tulix.tv/tintv/tintv/chunklist.m3u8
 http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kcFrMog.png" group-title="63" ,63: Your Time (CZ)
 https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1 group-title="usa1" ,usa1: ABC
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9511
+#EXTINF:-1 group-title="usa1" ,usa1: ABC NEWS
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9441
+#EXTINF:-1 group-title="usa1" ,usa1: BRAVO
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9500
+#EXTINF:-1 group-title="usa1" ,usa1: CNN
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9493
+#EXTINF:-1 group-title="usa1" ,usa1: COMEDY CENTRAL
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9492
+#EXTINF:-1 group-title="usa1" ,usa1: DISCOVERY
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9488
+#EXTINF:-1 group-title="usa1" ,usa1: MLB NETWORK
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/20401
+#EXTINF:-1 group-title="usa1" ,usa1: E!
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9485
+#EXTINF:-1 group-title="usa1" ,usa1: FOOD NETWORK
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9481
+#EXTINF:-1 group-title="usa1" ,usa1: FOX NEWS
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9477
+#EXTINF:-1 group-title="usa1" ,usa1: FX HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9473
+#EXTINF:-1 group-title="usa1" ,usa1: UFC 254 Pass HD US
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/134262
+#EXTINF:-1 group-title="usa1" ,usa1: US | HBO SIGNATURE
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9463
+#EXTINF:-1 group-title="usa1" ,usa1: HGTV
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9461
+#EXTINF:-1 group-title="usa1" ,usa1: HISTORY
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9460
+#EXTINF:-1 group-title="usa1" ,usa1: NBC GOLF
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9453
+#EXTINF:-1 group-title="usa1" ,usa1: NHL NETWORK
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9451
+#EXTINF:-1 group-title="usa1" ,usa1: SHOWTIME
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9447
+#EXTINF:-1 group-title="usa1" ,usa1: CA | SPORTSNET WORLD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9442
+#EXTINF:-1 group-title="usa1" ,usa1: SYFY
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9438
+#EXTINF:-1 group-title="usa1" ,usa1: CINEMAX ACTION
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32722
+#EXTINF:-1 group-title="usa1" ,usa1: NFL NETWORK
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32726
+#EXTINF:-1 group-title="usa1" ,usa1: TBS
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32712
+#EXTINF:-1 group-title="usa1" ,usa1: TENNIS CHANNEL
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32725
+#EXTINF:-1 group-title="usa1" ,usa1: CA | TSN 5
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32742
+#EXTINF:-1 group-title="usa1" ,usa1: TNT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9434
+#EXTINF:-1 group-title="usa1" ,usa1: A & E
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32694
+#EXTINF:-1 group-title="usa1" ,usa1: ANIMAL PLANET
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32693
+#EXTINF:-1 group-title="usa1" ,usa1: CARTOON NETWORK
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32692
+#EXTINF:-1 group-title="usa1" ,usa1: CA | TSN 4
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32756
+#EXTINF:-1 group-title="usa1" ,usa1: CW
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32703
+#EXTINF:-1 group-title="usa1" ,usa1: ESPN U
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32690
+#EXTINF:-1 group-title="usa1" ,usa1: DIY NETWORK
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32704
+#EXTINF:-1 group-title="usa1" ,usa1: STARZ CINEMA
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32688
+#EXTINF:-1 group-title="usa1" ,usa1: DISNEY CHANNEL
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32701
+#EXTINF:-1 group-title="usa1" ,usa1: WGN AMERICA
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32676
+#EXTINF:-1 group-title="usa1" ,usa1: CA | TSN 1
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9444
+#EXTINF:-1 group-title="usa1" ,usa1: BLOOMBERG
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22589
+#EXTINF:-1 group-title="usa1" ,usa1: CBSN
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22582
+#EXTINF:-1 group-title="usa1" ,usa1: MSNBC
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22581
+#EXTINF:-1 group-title="usa1" ,usa1: DISNEY XD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22951
+#EXTINF:-1 group-title="usa1" ,usa1: US | FXX
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22946
+#EXTINF:-1 group-title="usa1" ,usa1: FREEFORM
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22788
+#EXTINF:-1 group-title="usa1" ,usa1: IFC
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22786
+#EXTINF:-1 group-title="usa1" ,usa1: CA | TSN 2
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22782
+#EXTINF:-1 group-title="usa1" ,usa1: CA | TSN 3
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22783
+#EXTINF:-1 group-title="usa1" ,usa1: SEC NETWORK
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32783
+#EXTINF:-1 group-title="usa1" ,usa1: CBS
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32803
+#EXTINF:-1 group-title="usa1" ,usa1: NBC
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32804
+#EXTINF:-1 group-title="usa1" ,usa1: MC EU SD US
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/35371
+#EXTINF:-1 group-title="usa1" ,usa1: 5 STAR MAX HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180158
+#EXTINF:-1 group-title="usa1" ,usa1: 5 USA
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180159
+#EXTINF:-1 group-title="usa1" ,usa1: 7 WWSB FL Sarasota HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180160
+#EXTINF:-1 group-title="usa1" ,usa1: ABC 30 Fresno
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180219
+#EXTINF:-1 group-title="usa1" ,usa1: ABC 36
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180220
+#EXTINF:-1 group-title="usa1" ,usa1: ABC BOSTON MA WCVB
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180230
+#EXTINF:-1 group-title="usa1" ,usa1: ABC Los Angeles
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180252
+#EXTINF:-1 group-title="usa1" ,usa1: AssyriaSat
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180349
+#EXTINF:-1 group-title="usa1" ,usa1: Baby TV FHD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180361
+#EXTINF:-1 group-title="usa1" ,usa1: Bend NBC KTVZ
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180379
+#EXTINF:-1 group-title="usa1" ,usa1: BET HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180380
+#EXTINF:-1 group-title="usa1" ,usa1: BET HER HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180381
+#EXTINF:-1 group-title="usa1" ,usa1: BET JAMS
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180382
+#EXTINF:-1 group-title="usa1" ,usa1: Boise NBC KTVB
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180395
+#EXTINF:-1 group-title="usa1" ,usa1: BOUNCE / REVOLT HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180399
+#EXTINF:-1 group-title="usa1" ,usa1: Bounce TV
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180400
+#EXTINF:-1 group-title="usa1" ,usa1: CBS CHARLOTTE HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180501
+#EXTINF:-1 group-title="usa1" ,usa1: CBS CHARLOTTE NC WBTV
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180502
+#EXTINF:-1 group-title="usa1" ,usa1: CBS Chicago
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180503
+#EXTINF:-1 group-title="usa1" ,usa1: CBS CHICAGO IL WBBM
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180504
+#EXTINF:-1 group-title="usa1" ,usa1: CBS CLEVELAND OH WOIO
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180506
+#EXTINF:-1 group-title="usa1" ,usa1: CBS COLUMBUS HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180507
+#EXTINF:-1 group-title="usa1" ,usa1: CBS DETROIT HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180513
+#EXTINF:-1 group-title="usa1" ,usa1: CBS DETROIT MI WWJ
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180514
+#EXTINF:-1 group-title="usa1" ,usa1: CBS HARTFORD CT WFSB
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180519
+#EXTINF:-1 group-title="usa1" ,usa1: CBS Hartford HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180520
+#EXTINF:-1 group-title="usa1" ,usa1: CBS HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180521
+#EXTINF:-1 group-title="usa1" ,usa1: CBS KCOY Santa Maria
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180532
+#EXTINF:-1 group-title="usa1" ,usa1: City FOX Net Rapid
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180748
+#EXTINF:-1 group-title="usa1" ,usa1: Comedy Central FHD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180771
+#EXTINF:-1 group-title="usa1" ,usa1: Corpus Christi NBC KRIS
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180776
+#EXTINF:-1 group-title="usa1" ,usa1: Dayton NBC WDTN
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180806
+#EXTINF:-1 group-title="usa1" ,usa1: FIGHT BOX FHD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180889
+#EXTINF:-1 group-title="usa1" ,usa1: FOX (BALTIMORE)
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180901
+#EXTINF:-1 group-title="usa1" ,usa1: FOX (Pittsburgh) PA WPGH
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180902
+#EXTINF:-1 group-title="usa1" ,usa1: FOX 8 (CLEVELAND) HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180908
+#EXTINF:-1 group-title="usa1" ,usa1: Fox 9 (Plus Minneapolis)
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180909
+#EXTINF:-1 group-title="usa1" ,usa1: FOX 11 Green Bay
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180910
+#EXTINF:-1 group-title="usa1" ,usa1: FOX 43 (Knoxville)
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180924
+#EXTINF:-1 group-title="usa1" ,usa1: FOX 43 HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180925
+#EXTINF:-1 group-title="usa1" ,usa1: FOX Cleveland
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/180942
+#EXTINF:-1 group-title="usa1" ,usa1: FOX PHOENIX AZ KSAZ
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181047
+#EXTINF:-1 group-title="usa1" ,usa1: FOX Pittsburgh
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181048
+#EXTINF:-1 group-title="usa1" ,usa1: FOX Reno
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181049
+#EXTINF:-1 group-title="usa1" ,usa1: FOX Rochester
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181050
+#EXTINF:-1 group-title="usa1" ,usa1: FOX SACRAMENTO CA KTXL
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181052
+#EXTINF:-1 group-title="usa1" ,usa1: FOX SACRAMENTO KTXL
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181053
+#EXTINF:-1 group-title="usa1" ,usa1: FOX SAN ANTONIO TX KABB
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181057
+#EXTINF:-1 group-title="usa1" ,usa1: MUSIC CHOICE DANCE EDM
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181374
+#EXTINF:-1 group-title="usa1" ,usa1: MUSIC CHOICE HIP HOP & R&B
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181375
+#EXTINF:-1 group-title="usa1" ,usa1: NAT GEO WILD EAST HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181395
+#EXTINF:-1 group-title="usa1" ,usa1: NBC 5
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181419
+#EXTINF:-1 group-title="usa1" ,usa1: NBC 5 Chicago
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181420
+#EXTINF:-1 group-title="usa1" ,usa1: NBC KSBW Salinas
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181535
+#EXTINF:-1 group-title="usa1" ,usa1: NBC KSBY San Luis Obispo
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181536
+#EXTINF:-1 group-title="usa1" ,usa1: NBC KSDK
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181537
+#EXTINF:-1 group-title="usa1" ,usa1: NBC KSEE Fresno
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181538
+#EXTINF:-1 group-title="usa1" ,usa1: NBC KSL Shreveport
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181539
+#EXTINF:-1 group-title="usa1" ,usa1: NBC KSNB Superior
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181540
+#EXTINF:-1 group-title="usa1" ,usa1: NBC KTVH Helena
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181554
+#EXTINF:-1 group-title="usa1" ,usa1: NBC KXAS Fort Worth
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181565
+#EXTINF:-1 group-title="usa1" ,usa1: NBC KYMA Yuma
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181566
+#EXTINF:-1 group-title="usa1" ,usa1: NBC KYOU Ottumwa
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181567
+#EXTINF:-1 group-title="usa1" ,usa1: NBC WHIZ Zanesville
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181672
+#EXTINF:-1 group-title="usa1" ,usa1: NBC WHO Des Moines
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181673
+#EXTINF:-1 group-title="usa1" ,usa1: NBC WILX Onondaga
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181674
+#EXTINF:-1 group-title="usa1" ,usa1: NBC WIS Columbia
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181675
+#EXTINF:-1 group-title="usa1" ,usa1: NBC WITN Washington
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181676
+#EXTINF:-1 group-title="usa1" ,usa1: NBC WJAC Johnstown
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181677
+#EXTINF:-1 group-title="usa1" ,usa1: NBC WJHG Panama City
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181678
+#EXTINF:-1 group-title="usa1" ,usa1: NBC WKTV Utica
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/181679
+#EXTINF:-1 group-title="usa1" ,usa1: Starz Encore Western FHD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/182000
+#EXTINF:-1 group-title="usa1" ,usa1: Starz West FHD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/182006
+#EXTINF:-1 group-title="usa1" ,usa1: SYFY WEST
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/182016
+#EXTINF:-1 group-title="usa1" ,usa1: Syracuse NBC WSTM
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/182017
+#EXTINF:-1 group-title="usa1" ,usa1: TBN
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/182022
+#EXTINF:-1 group-title="usa1" ,usa1: TELEMUNDO CHICAGO HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/182031
+#EXTINF:-1 group-title="usa1" ,usa1: Telemundo Denver
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/182033
+#EXTINF:-1 group-title="usa1" ,usa1: Telemundo Fresno
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/182034
+#EXTINF:-1 group-title="usa1" ,usa1: Washington NBC WITN
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/182139
+#EXTINF:-1 group-title="usa1" ,usa1: Waterloo NBC KWWL
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/182140
+#EXTINF:-1 group-title="usa1" ,usa1: WEVV-TV
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/182151
+#EXTINF:-1 group-title="usa1" ,usa1: WORLD FISHING NETWORK HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/182164
+#EXTINF:-1 group-title="usa1" ,usa1: A&E
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1256.ts
+#EXTINF:-1 group-title="usa1" ,usa1: ABC NEWS LIVE EAST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7867.ts
+#EXTINF:-1 group-title="usa1" ,usa1: ABC NEWS
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7868.ts
+#EXTINF:-1 group-title="usa1" ,usa1: ABC
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7869.ts
+#EXTINF:-1 group-title="usa1" ,usa1: ADULT SWIM
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1257.ts
+#EXTINF:-1 group-title="usa1" ,usa1: AL JAZEERA
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/12454.ts
+#EXTINF:-1 group-title="usa1" ,usa1: AMC
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1258.ts
+#EXTINF:-1 group-title="usa1" ,usa1: AMERICAN HEROES CHANNEL
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1259.ts
+#EXTINF:-1 group-title="usa1" ,usa1: ANIMAL PLANET EAST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1260.ts
+#EXTINF:-1 group-title="usa1" ,usa1: ANIMAL PLANET WEST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1261.ts
+#EXTINF:-1 group-title="usa1" ,usa1: ANTENNA TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1262.ts
+#EXTINF:-1 group-title="usa1" ,usa1: ASPIRE TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1263.ts
+#EXTINF:-1 group-title="usa1" ,usa1: AWE
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/12683.ts
+#EXTINF:-1 group-title="usa1" ,usa1: AXS TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1264.ts
+#EXTINF:-1 group-title="usa1" ,usa1: BBC AMERICA
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1265.ts
+#EXTINF:-1 group-title="usa1" ,usa1: BBC WORLD NEWS
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1266.ts
+#EXTINF:-1 group-title="usa1" ,usa1: BET
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1267.ts
+#EXTINF:-1 group-title="usa1" ,usa1: BET (WEST)
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7871.ts
+#EXTINF:-1 group-title="usa1" ,usa1: BET GOSPEL
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/4039.ts
+#EXTINF:-1 group-title="usa1" ,usa1: BET HER
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1268.ts
+#EXTINF:-1 group-title="usa1" ,usa1: BET JAMS
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1269.ts
+#EXTINF:-1 group-title="usa1" ,usa1: BET SOUL
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1270.ts
+#EXTINF:-1 group-title="usa1" ,usa1: BLOOMBERG
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/5554.ts
+#EXTINF:-1 group-title="usa1" ,usa1: BLOOMBERG TELEVISION
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/14129.ts
+#EXTINF:-1 group-title="usa1" ,usa1: BLOOMBERG LQ
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/14130.ts
+#EXTINF:-1 group-title="usa1" ,usa1: BRAVO EAST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1272.ts
+#EXTINF:-1 group-title="usa1" ,usa1: BRAVO WEST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1273.ts
+#EXTINF:-1 group-title="usa1" ,usa1: BUZZR
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7873.ts
+#EXTINF:-1 group-title="usa1" ,usa1: CHEDDAR BUSINESS
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1276.ts
+#EXTINF:-1 group-title="usa1" ,usa1: CHEDDAR NEWS
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1275.ts
+#EXTINF:-1 group-title="usa1" ,usa1: C-SPAN 2
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7874.ts
+#EXTINF:-1 group-title="usa1" ,usa1: C-SPAN 1
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7875.ts
+#EXTINF:-1 group-title="usa1" ,usa1: CBS NEWS
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7877.ts
+#EXTINF:-1 group-title="usa1" ,usa1: CMT
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/4483.ts
+#EXTINF:-1 group-title="usa1" ,usa1: CNBC
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1278.ts
+#EXTINF:-1 group-title="usa1" ,usa1: CNBC WORLD
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1277.ts
+#EXTINF:-1 group-title="usa1" ,usa1: CNN
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1279.ts
+#EXTINF:-1 group-title="usa1" ,usa1: CNN INTERNATIONAL
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7879.ts
+#EXTINF:-1 group-title="usa1" ,usa1: COMEDY CENTRAL EAST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1405.ts
+#EXTINF:-1 group-title="usa1" ,usa1: COMET TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1282.ts
+#EXTINF:-1 group-title="usa1" ,usa1: COOKING CHANNEL
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1281.ts
+#EXTINF:-1 group-title="usa1" ,usa1: COWBOY CHANNEL
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7880.ts
+#EXTINF:-1 group-title="usa1" ,usa1: COZI TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1285.ts
+#EXTINF:-1 group-title="usa1" ,usa1: CRIME & INVESTIGATION
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1287.ts
+#EXTINF:-1 group-title="usa1" ,usa1: CW
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1286.ts
+#EXTINF:-1 group-title="usa1" ,usa1: DESTINATION AMERICA
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1288.ts
+#EXTINF:-1 group-title="usa1" ,usa1: DISCOVERY EAST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1289.ts
+#EXTINF:-1 group-title="usa1" ,usa1: DISCOVERY FAMILY
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1291.ts
+#EXTINF:-1 group-title="usa1" ,usa1: DISCOVERY LIFE
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1292.ts
+#EXTINF:-1 group-title="usa1" ,usa1: DISCOVERY SCIENCE
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1293.ts
+#EXTINF:-1 group-title="usa1" ,usa1: DISCOVERY TURBO
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7881.ts
+#EXTINF:-1 group-title="usa1" ,usa1: DISCOVERY WEST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1290.ts
+#EXTINF:-1 group-title="usa1" ,usa1: DIY NETWORK
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1294.ts
+#EXTINF:-1 group-title="usa1" ,usa1: DOG TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7883.ts
+#EXTINF:-1 group-title="usa1" ,usa1: E! EAST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1295.ts
+#EXTINF:-1 group-title="usa1" ,usa1: E! WEST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1296.ts
+#EXTINF:-1 group-title="usa1" ,usa1: EL REY NETWORK
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1297.ts
+#EXTINF:-1 group-title="usa1" ,usa1: ESCAPE (COURT TV MYSTERY)
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7885.ts
+#EXTINF:-1 group-title="usa1" ,usa1: FOOD NETWORK EAST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1377.ts
+#EXTINF:-1 group-title="usa1" ,usa1: FOOD NETWORK WEST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1378.ts
+#EXTINF:-1 group-title="usa1" ,usa1: FOX
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7886.ts
+#EXTINF:-1 group-title="usa1" ,usa1: FOX BUSINESS
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1379.ts
+#EXTINF:-1 group-title="usa1" ,usa1: FOX LIFE
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1380.ts
+#EXTINF:-1 group-title="usa1" ,usa1: FOX NEWS
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1381.ts
+#EXTINF:-1 group-title="usa1" ,usa1: FREEFORM EAST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1382.ts
+#EXTINF:-1 group-title="usa1" ,usa1: FREEFORM WEST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1383.ts
+#EXTINF:-1 group-title="usa1" ,usa1: FREE SPEECH TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7887.ts
+#EXTINF:-1 group-title="usa1" ,usa1: FUSE
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1384.ts
+#EXTINF:-1 group-title="usa1" ,usa1: FX EAST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1387.ts
+#EXTINF:-1 group-title="usa1" ,usa1: FX WEST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1388.ts
+#EXTINF:-1 group-title="usa1" ,usa1: FXM
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1389.ts
+#EXTINF:-1 group-title="usa1" ,usa1: FXX EAST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1390.ts
+#EXTINF:-1 group-title="usa1" ,usa1: FXX WEST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1391.ts
+#EXTINF:-1 group-title="usa1" ,usa1: FYI
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1386.ts
+#EXTINF:-1 group-title="usa1" ,usa1: GAMESHOW NETWORK
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1392.ts
+#EXTINF:-1 group-title="usa1" ,usa1: GET TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/12829.ts
+#EXTINF:-1 group-title="usa1" ,usa1: GINX TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/4042.ts
+#EXTINF:-1 group-title="usa1" ,usa1: GOL TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1393.ts
+#EXTINF:-1 group-title="usa1" ,usa1: GREAT AMERICAN COUNTRY (GAC)
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/4043.ts
+#EXTINF:-1 group-title="usa1" ,usa1: GRIT
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/4044.ts
+#EXTINF:-1 group-title="usa1" ,usa1: HALLMARK CHANNEL
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1394.ts
+#EXTINF:-1 group-title="usa1" ,usa1: HALLMARK DRAMA
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1395.ts
+#EXTINF:-1 group-title="usa1" ,usa1: HALLMARK MOVIES & MYSTERIES
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1396.ts
+#EXTINF:-1 group-title="usa1" ,usa1: HDNET MOVIES
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7888.ts
+#EXTINF:-1 group-title="usa1" ,usa1: HEROES AND ICONS
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/12824.ts
+#EXTINF:-1 group-title="usa1" ,usa1: HGTV EAST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1397.ts
+#EXTINF:-1 group-title="usa1" ,usa1: HGTV WEST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1398.ts
+#EXTINF:-1 group-title="usa1" ,usa1: HISTORY
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1400.ts
+#EXTINF:-1 group-title="usa1" ,usa1: HLN
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1399.ts
+#EXTINF:-1 group-title="usa1" ,usa1: HSN
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/12685.ts
+#EXTINF:-1 group-title="usa1" ,usa1: HSN 2
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/12686.ts
+#EXTINF:-1 group-title="usa1" ,usa1: IFC
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1401.ts
+#EXTINF:-1 group-title="usa1" ,usa1: INSP
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7889.ts
+#EXTINF:-1 group-title="usa1" ,usa1: INVESTIGATION DISCOVERY EAST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1402.ts
+#EXTINF:-1 group-title="usa1" ,usa1: INVESTIGATION DISCOVERY WEST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1403.ts
+#EXTINF:-1 group-title="usa1" ,usa1: ION
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/4045.ts
+#EXTINF:-1 group-title="usa1" ,usa1: LAW & CRIME
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1407.ts
+#EXTINF:-1 group-title="usa1" ,usa1: LIFETIME
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1408.ts
+#EXTINF:-1 group-title="usa1" ,usa1: LIFETIME MOVIES
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1409.ts
+#EXTINF:-1 group-title="usa1" ,usa1: LOGO
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/5557.ts
+#EXTINF:-1 group-title="usa1" ,usa1: MAV TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7892.ts
+#EXTINF:-1 group-title="usa1" ,usa1: ME TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1410.ts
+#EXTINF:-1 group-title="usa1" ,usa1: MILITARY HISTORY
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/4046.ts
+#EXTINF:-1 group-title="usa1" ,usa1: MOTORTREND
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1412.ts
+#EXTINF:-1 group-title="usa1" ,usa1: MSNBC
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1411.ts
+#EXTINF:-1 group-title="usa1" ,usa1: MTV 2
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1415.ts
+#EXTINF:-1 group-title="usa1" ,usa1: MTV CLASSIC
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1416.ts
+#EXTINF:-1 group-title="usa1" ,usa1: MTV EAST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1413.ts
+#EXTINF:-1 group-title="usa1" ,usa1: MTV LIVE
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1417.ts
+#EXTINF:-1 group-title="usa1" ,usa1: NASA TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/12458.ts
+#EXTINF:-1 group-title="usa1" ,usa1: NAT GEO MUNDO
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/4047.ts
+#EXTINF:-1 group-title="usa1" ,usa1: NAT GEO WILD
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1420.ts
+#EXTINF:-1 group-title="usa1" ,usa1: NATIONAL GEOGRAPHIC
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1419.ts
+#EXTINF:-1 group-title="usa1" ,usa1: NAUTICAL CHANNEL
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7894.ts
+#EXTINF:-1 group-title="usa1" ,usa1: NBC
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/10302.ts
+#EXTINF:-1 group-title="usa1" ,usa1: NECN
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7896.ts
+#EXTINF:-1 group-title="usa1" ,usa1: NEWS 12 (LONG ISLAND)
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/14403.ts
+#EXTINF:-1 group-title="usa1" ,usa1: NEWSMAX TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/14409.ts
+#EXTINF:-1 group-title="usa1" ,usa1: ONE AMERICA NEWS NETWORK
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7898.ts
+#EXTINF:-1 group-title="usa1" ,usa1: OUTDOOR CHANNEL
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1423.ts
+#EXTINF:-1 group-title="usa1" ,usa1: OUTSIDE TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1424.ts
+#EXTINF:-1 group-title="usa1" ,usa1: OWN
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1425.ts
+#EXTINF:-1 group-title="usa1" ,usa1: OXYGEN
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1426.ts
+#EXTINF:-1 group-title="usa1" ,usa1: OXYGEN WEST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/4048.ts
+#EXTINF:-1 group-title="usa1" ,usa1: PARAMOUNT NETWORK
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1427.ts
+#EXTINF:-1 group-title="usa1" ,usa1: PBS
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/4050.ts
+#EXTINF:-1 group-title="usa1" ,usa1: PEOPLE TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1428.ts
+#EXTINF:-1 group-title="usa1" ,usa1: PIX 11
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/14285.ts
+#EXTINF:-1 group-title="usa1" ,usa1: POP
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/4049.ts
+#EXTINF:-1 group-title="usa1" ,usa1: PURSUIT CHANNEL
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/6444.ts
+#EXTINF:-1 group-title="usa1" ,usa1: QVC
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/4051.ts
+#EXTINF:-1 group-title="usa1" ,usa1: REELZ
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/4245.ts
+#EXTINF:-1 group-title="usa1" ,usa1: REVOLT
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1430.ts
+#EXTINF:-1 group-title="usa1" ,usa1: RFD
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/6435.ts
+#EXTINF:-1 group-title="usa1" ,usa1: RIDE TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7899.ts
+#EXTINF:-1 group-title="usa1" ,usa1: RT NEWS
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7900.ts
+#EXTINF:-1 group-title="usa1" ,usa1: SCIENCE
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/12820.ts
+#EXTINF:-1 group-title="usa1" ,usa1: SMITHSONIAN
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1431.ts
+#EXTINF:-1 group-title="usa1" ,usa1: START TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1432.ts
+#EXTINF:-1 group-title="usa1" ,usa1: SUNDANCE TV
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1433.ts
+#EXTINF:-1 group-title="usa1" ,usa1: SYFY EAST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1434.ts
+#EXTINF:-1 group-title="usa1" ,usa1: SYFY WEST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1435.ts
+#EXTINF:-1 group-title="usa1" ,usa1: TASTEMADE
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7906.ts
+#EXTINF:-1 group-title="usa1" ,usa1: TBS EAST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1437.ts
+#EXTINF:-1 group-title="usa1" ,usa1: TBS WEST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1438.ts
+#EXTINF:-1 group-title="usa2" ,usa2: 23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: 30A Investment Pitch
+https://www.30a-tv.com/InvPit.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: 30A Music
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: 30A Sidewalks
+https://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: 30A TV
+https://30a-tv.com/my999.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: 3ABN KIDS TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: 3ABN Latino
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: 3ABN Latino
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: 3News Now (KMTV-TV)
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: 7News Boston (WHDH)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: ABC 2 Baton Rouge LA (WBRZ-HD)
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: ABC 9 Chattanooga TN (WTVC)
+https://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: ABC News Digital 1
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: ABC News Digital 10
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: ABC News Digital 2
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: ABC News Digital 3
+https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: ABC News Digital 4
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: ABC News Digital 5
+https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: ABC News Digital 6
+https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: ABC News Digital 7
+https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: ABC News Digital 8
+https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: ABC News Digital 9
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Akaku 53 (Hawaii)
+https://akaku.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Akaku 54 (Hawaii)
+https://akaku.vod.castus.tv/live/ch2.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Akaku 55 (Hawaii)
+https://akaku.vod.castus.tv/live/ch3.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: AKC TV
+https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Al Hurra
+https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Aliento Vision
+http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: American Classic Network
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Apple Sauce TV
+https://nimble.dashstreams.net/onestudio/applesaucetv/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Beach TV (30A)
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Beach TV (CSULB)
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Beach TV (Panama City)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Beach TV (Pawleys Island)
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Beauty IQ
+https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Beto TV
+https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Better Health TV
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Better Life TV
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Better Nature TV
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Bible Explorations
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Black Widow TV
+https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: BlazeTV
+https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Bloomberg
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Bloomberg TV
+https://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Bloomberg TV
+https://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Bloomberg TV
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Bloomberg TV
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Bloomberg TV
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Bloomberg TV Asia
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Bloomberg TV Asia Live Event
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Bloomberg TV EMEA Live Event
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Bloomberg TV Europe
+https://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Bloomberg TV Europe
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Bloomberg TV Europe
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Bloomberg TV Live Event
+https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Bloomberg TV Politics Live Event
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Blush Romance TV
+https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Bowie TV
+https://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Brut.
+https://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: BUTV10 (Boston University)
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: byu TV
+https://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: C-Span
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: C-Span 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: C-Span 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Catholic TV
+https://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CBN Español
+https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CBN News
+https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CBN News
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CBN News
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CBN News
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CBS
+http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CBS
+http://161.0.157.51/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CBS 9 Washington DC (WUSA-HD)
+https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CBS News Boston
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
+#EXTINF:-1 group-title="usa2" ,usa2: CBS News Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1 group-title="usa2" ,usa2: CBSN
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CBSN
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CBSN
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CBSN Bay Area
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
+#EXTINF:-1 group-title="usa2" ,usa2: CBSN Minnesota
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT
+#EXTINF:-1 group-title="usa2" ,usa2: CBSN New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+#EXTINF:-1 group-title="usa2" ,usa2: CBSN Philly
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
+#EXTINF:-1 group-title="usa2" ,usa2: CC-TV (Charlotte County)
+https://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CCX1
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Cerritos TV3
+https://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Charge!
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Cheddar
+https://live.chdrstatic.com/cheddar/primary/index.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Cheddar Big News
+https://live.chdrstatic.com/cbn/primary/index.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Christian Youth Channel
+http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CMC-USA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CNBC Arabiya
+https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
+#EXTINF:-1 group-title="usa2" ,usa2: ConTV
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CSat TV
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CSUDH TV (Dominguez Hills)
+http://dhtv5.csudh.edu:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CT-N Court Feed
+http://video.ct-n.com/live/ctnSupreme/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CT-N Live Stream 2
+http://video.ct-n.com/live/web2stream/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CTN
+http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CTN
+http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: CTN
+https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: DC Council Channel
+https://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Denver 8 TV
+https://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: District of Columbia Network
+https://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Divine Vision
+https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Dr. Gene Scott
+https://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Dream TV
+https://nimble.dashstreams.net/onestudio/dreamtv/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Escambia County TV
+https://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: ESNE TV
+https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Fairfax Public Access
+https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: FOX 28 Savannah GA (WTGS)
+https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Galveston County TV
+https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Glendale 11
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Globesville (New York Institute of Technology)
+https://live-h1.frontlayer.net/fl592468/live/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: GOD TV
+https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Gospel Truth TV
+https://bstna.tulix.tv/live/bs_2m/index.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Honor TV
+https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Hope Channel
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Horrified TV
+https://nimble.dashstreams.net/onestudio/horrified/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: InfoWars
+https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Inspiration TV
+https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Ion 8 Christiansted VI (WSVI-TV)
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: ISN
+https://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: It’s At The Movies
+https://nimble.dashstreams.net/onestudio/its_comming_soon/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: JBS
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Jewelry Television
+https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Jewish Life TV
+https://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Justice Network (WMGM)
+https://v-pi.mybtv.net/event/65.3/768x432?start_time=2019-12-11T19%3A45%3A00.000Z&end_time=2029-12-11T23%3A00%3A00.000Z&env=prd&uid=29375
+#EXTINF:-1 group-title="usa2" ,usa2: KBVR TV
+https://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: KOMO News (KOMO-TV)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: KTLA 5
+https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Law And Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Leominster TV Educational
+http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Leominster TV Government
+http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Leominster TV Public
+http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Lex TV
+https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: LifevisionTV
+https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Local Now Philidelphia
+https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
+#EXTINF:-1 group-title="usa2" ,usa2: LoveWorld USA
+https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: MCN6
+http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Miami TV Latino
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Mo Laughter
+https://nimble.dashstreams.net/onestudio/molaughter/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Mobcrush
+https://ott.mobcrush.com/hls/0/ott.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Models Inc.
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Movee 4U
+https://nimble.dashstreams.net/onestudio/movee4u/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: MTV (Latin America)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: MTV Norge
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: MyHolyfield TV
+https://nimble.dashstreams.net/onestudio/holyfield/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: NBC
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: NBC 15 Madison WI (WMTVNBC)
+https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:-1 group-title="usa2" ,usa2: NBC 26 (WGBA)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: NBC 6 Miami FL (WTVJ)
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: NBC Charlotte NC (WCNC-TV)
+https://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: NBC San Jose CA (KNTV)
+https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: NBC San Jose CA (KNTV)
+https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1 group-title="usa2" ,usa2: NRBTV
+https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Olelo 54
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Olelo 55
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Olympic Channel (US NBC)
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Opportunity Knocks
+https://nimble.dashstreams.net/onestudio/myoktv/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: PBC Tapesh TV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Planet Cannabis Entertainment
+https://nimble.dashstreams.net/onestudio/pce/playlist.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: QVC
+https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: QVC 2
+https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: QVC 3
+https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Radio y Televisión Martí
+https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1 group-title="usa2" ,usa2: Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="uk1" ,uk1: TLC
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6963
+#EXTINF:-1 group-title="uk1" ,uk1: BBC 1 HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1495
+#EXTINF:-1 group-title="uk1" ,uk1: BBC 2 HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1496
+#EXTINF:-1 group-title="uk1" ,uk1: BBC OXFORD HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1497
+#EXTINF:-1 group-title="uk1" ,uk1: BBC 4 HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1498
+#EXTINF:-1 group-title="uk1" ,uk1: BBC News
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6922
+#EXTINF:-1 group-title="uk1" ,uk1: E4
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6928
+#EXTINF:-1 group-title="uk1" ,uk1: ITV 4
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6923
+#EXTINF:-1 group-title="uk1" ,uk1: FILM 4
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6927
+#EXTINF:-1 group-title="uk1" ,uk1: MORE 4
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6926
+#EXTINF:-1 group-title="uk1" ,uk1: CHANNEL 4 FHD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6924
+#EXTINF:-1 group-title="uk1" ,uk1: CHANNEL 5
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6925
+#EXTINF:-1 group-title="uk1" ,uk1: E!
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6948
+#EXTINF:-1 group-title="uk1" ,uk1: UK | CNBC
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32697
+#EXTINF:-1 group-title="uk1" ,uk1: ALIBI HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6947
+#EXTINF:-1 group-title="uk1" ,uk1: DAVE
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6951
+#EXTINF:-1 group-title="uk1" ,uk1: QUEST
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6962
+#EXTINF:-1 group-title="uk1" ,uk1: UTV
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6930
+#EXTINF:-1 group-title="uk1" ,uk1: COMEDY CENTRAL
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6950
+#EXTINF:-1 group-title="uk1" ,uk1: CBBC
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6920
+#EXTINF:-1 group-title="uk1" ,uk1: Fox News HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6933
+#EXTINF:-1 group-title="uk1" ,uk1: EURONEWS
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6934
+#EXTINF:-1 group-title="uk1" ,uk1: TRAVEL CHANNEL
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6958
+#EXTINF:-1 group-title="uk1" ,uk1: BLOOMBERG FHD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6939
+#EXTINF:-1 group-title="uk1" ,uk1: DISNEY XD HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1504
+#EXTINF:-1 group-title="uk1" ,uk1: NICKELODEON HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1503
+#EXTINF:-1 group-title="uk1" ,uk1: CARTOON NETWORK HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1502
+#EXTINF:-1 group-title="uk1" ,uk1: FOOD NETWORK
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6964
+#EXTINF:-1 group-title="uk1" ,uk1: HISTORY HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1513
+#EXTINF:-1 group-title="uk1" ,uk1: ANIMAL PLANET
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6959
+#EXTINF:-1 group-title="uk1" ,uk1: DISCOVERY
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6954
+#EXTINF:-1 group-title="uk1" ,uk1: DISCOVERY SCIENCE
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6952
+#EXTINF:-1 group-title="uk1" ,uk1: CRIME & INVERSTIGATION
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6949
+#EXTINF:-1 group-title="uk1" ,uk1: INVESTIGATION DISCOVERY
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6955
+#EXTINF:-1 group-title="uk1" ,uk1: NAT GEO WILD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6961
+#EXTINF:-1 group-title="uk1" ,uk1: SKY ARTS 1
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6945
+#EXTINF:-1 group-title="uk1" ,uk1: SKY ATLANTIC
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6946
+#EXTINF:-1 group-title="uk1" ,uk1: Sky News HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1499
+#EXTINF:-1 group-title="uk1" ,uk1: Sky Cinema Crime Thriller HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1490
+#EXTINF:-1 group-title="uk1" ,uk1: CBS REALITY HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1509
+#EXTINF:-1 group-title="uk1" ,uk1: CBS DRAMA HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1510
+#EXTINF:-1 group-title="uk1" ,uk1: CBS ACTION JUSTICE HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1511
+#EXTINF:-1 group-title="uk1" ,uk1: MOVIES DRAMA HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1515
+#EXTINF:-1 group-title="uk1" ,uk1: MOVIES DISNEY HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1516
+#EXTINF:-1 group-title="uk1" ,uk1: MOVIES COMEDY HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1517
+#EXTINF:-1 group-title="uk1" ,uk1: MOVIES ACTION HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1518
+#EXTINF:-1 group-title="uk1" ,uk1:  5 Spike HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169821
+#EXTINF:-1 group-title="uk1" ,uk1:  5 STAR +1
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169822
+#EXTINF:-1 group-title="uk1" ,uk1:  5 STAR HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169823
+#EXTINF:-1 group-title="uk1" ,uk1:  5 USA +1
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169824
+#EXTINF:-1 group-title="uk1" ,uk1:  5 USA HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169825
+#EXTINF:-1 group-title="uk1" ,uk1:  Aaj Tak
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169831
+#EXTINF:-1 group-title="uk1" ,uk1:  ABC News
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169832
+#EXTINF:-1 group-title="uk1" ,uk1:  ABP News HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169833
+#EXTINF:-1 group-title="uk1" ,uk1:  Afro Music Channel
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169834
+#EXTINF:-1 group-title="uk1" ,uk1:  Ahlulbayt TV
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169835
+#EXTINF:-1 group-title="uk1" ,uk1:  BBC 4 FHD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169852
+#EXTINF:-1 group-title="uk1" ,uk1:  BET HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169866
+#EXTINF:-1 group-title="uk1" ,uk1:  Boomerang +1
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169871
+#EXTINF:-1 group-title="uk1" ,uk1:  FOOD NETWORK +1
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169996
+#EXTINF:-1 group-title="uk1" ,uk1:  Food Network FHD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169997
+#EXTINF:-1 group-title="uk1" ,uk1:  FOX FHD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169998
+#EXTINF:-1 group-title="uk1" ,uk1:  FOX SPORTS News
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/170000
+#EXTINF:-1 group-title="uk1" ,uk1:  France 24 English
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/170001
+#EXTINF:-1 group-title="uk1" ,uk1:  France 24 FHD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/170002
+#EXTINF:-1 group-title="uk1" ,uk1:  Geo News
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/170004
+#EXTINF:-1 group-title="uk1" ,uk1:  GOD TV
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/170005
+#EXTINF:-1 group-title="uk1" ,uk1:  History Channel FHD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/170015
+#EXTINF:-1 group-title="uk1" ,uk1:  Spotlight TV
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/170259
+#EXTINF:-1 group-title="uk1" ,uk1:  Star Bharat
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/170260
+#EXTINF:-1 group-title="uk1" ,uk1:  Star Gold
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/170262
+#EXTINF:-1 group-title="uk1" ,uk1:  Thane
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/170274
+#EXTINF:-1 group-title="uk1" ,uk1:  The Box
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/170275
+#EXTINF:-1 group-title="uk1" ,uk1:  The Races
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/170276
+#EXTINF:-1 group-title="uk1" ,uk1:  Tiny Pop HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/170278
+#EXTINF:-1 group-title="uk1" ,uk1: CGTN HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14970
+#EXTINF:-1 group-title="uk1" ,uk1: CITV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/9588
+#EXTINF:-1 group-title="uk1" ,uk1: CNBC
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14968
+#EXTINF:-1 group-title="uk1" ,uk1: CNN FHD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14726
+#EXTINF:-1 group-title="uk1" ,uk1: CNN
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3995
+#EXTINF:-1 group-title="uk1" ,uk1: Cartoon Network HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3967
+#EXTINF:-1 group-title="uk1" ,uk1: Challenge
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14945
+#EXTINF:-1 group-title="uk1" ,uk1: Channel 4 HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14890
+#EXTINF:-1 group-title="uk1" ,uk1: Channel 4 London
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/2681
+#EXTINF:-1 group-title="uk1" ,uk1: Channel 4 Midlands
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14889
+#EXTINF:-1 group-title="uk1" ,uk1: Channel 4 North
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14888
+#EXTINF:-1 group-title="uk1" ,uk1: Channel 4 Scotland
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14886
+#EXTINF:-1 group-title="uk1" ,uk1: Channel 4 South & East
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14885
+#EXTINF:-1 group-title="uk1" ,uk1: Channel 5 FHD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14728
+#EXTINF:-1 group-title="uk1" ,uk1: Channel 5 HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14727
+#EXTINF:-1 group-title="uk1" ,uk1: Channel 5
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/2680
+#EXTINF:-1 group-title="uk1" ,uk1: Channel 5+1
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14729
+#EXTINF:-1 group-title="uk1" ,uk1: Chart Show TV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14884
+#EXTINF:-1 group-title="uk1" ,uk1: Now 90's
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/15053
+#EXTINF:-1 group-title="uk1" ,uk1: Clubland TV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/15051
+#EXTINF:-1 group-title="uk1" ,uk1: Coral TV1
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/27021
+#EXTINF:-1 group-title="uk1" ,uk1: Coral TV2
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/27022
+#EXTINF:-1 group-title="uk1" ,uk1: Colors
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/1988
+#EXTINF:-1 group-title="uk1" ,uk1: Comedy Central HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/16722
+#EXTINF:-1 group-title="uk1" ,uk1: Comedy Central
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3948
+#EXTINF:-1 group-title="uk1" ,uk1: Comedy Central Extra
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14762
+#EXTINF:-1 group-title="uk1" ,uk1: Crime + Investigation
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14943
+#EXTINF:-1 group-title="uk1" ,uk1: DMAX
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/1983
+#EXTINF:-1 group-title="uk1" ,uk1: Dave HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/8012
+#EXTINF:-1 group-title="uk1" ,uk1: Dave
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14967
+#EXTINF:-1 group-title="uk1" ,uk1: Discovery Channel HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14863
+#EXTINF:-1 group-title="uk1" ,uk1: Discovery Channel
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/1986
+#EXTINF:-1 group-title="uk1" ,uk1: Discovery History
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/1985
+#EXTINF:-1 group-title="uk1" ,uk1: Discovery Home & Health
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14833
+#EXTINF:-1 group-title="uk1" ,uk1: Investigation Discovery
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3982
+#EXTINF:-1 group-title="uk1" ,uk1: Discovery Science
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/2679
+#EXTINF:-1 group-title="uk1" ,uk1: Discovery Shed
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14841
+#EXTINF:-1 group-title="uk1" ,uk1: Disney Channel HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/1984
+#EXTINF:-1 group-title="uk1" ,uk1: Disney Junior HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3969
+#EXTINF:-1 group-title="uk1" ,uk1: Disney XD HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/2675
+#EXTINF:-1 group-title="uk1" ,uk1: Drama
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3957
+#EXTINF:-1 group-title="uk1" ,uk1: Dunya News
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14881
+#EXTINF:-1 group-title="uk1" ,uk1: E!
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3966
+#EXTINF:-1 group-title="uk1" ,uk1: E4 HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/8013
+#EXTINF:-1 group-title="uk1" ,uk1: E4 +1
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/2674
+#EXTINF:-1 group-title="uk1" ,uk1: ETV1
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14675
+#EXTINF:-1 group-title="uk1" ,uk1: ETV2
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14674
+#EXTINF:-1 group-title="uk1" ,uk1: ETV6
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14672
+#EXTINF:-1 group-title="uk1" ,uk1: EWTN Catholic
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/15046
+#EXTINF:-1 group-title="uk1" ,uk1: Eden
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14965
+#EXTINF:-1 group-title="uk1" ,uk1: FOX HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/2656
+#EXTINF:-1 group-title="uk1" ,uk1: FOX News
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/11429
+#EXTINF:-1 group-title="uk1" ,uk1: Film 4
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/1979
+#EXTINF:-1 group-title="uk1" ,uk1: Film 4 HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/19136
+#EXTINF:-1 group-title="uk1" ,uk1: Fashion TV HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/21120
+#EXTINF:-1 group-title="uk1" ,uk1: Food Network
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3991
+#EXTINF:-1 group-title="uk1" ,uk1: Food Network +1
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14878
+#EXTINF:-1 group-title="uk1" ,uk1: Forces TV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/12354
+#EXTINF:-1 group-title="uk1" ,uk1: Geo TV Network
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14838
+#EXTINF:-1 group-title="uk1" ,uk1: GOLD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14963
+#EXTINF:-1 group-title="uk1" ,uk1: H2
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3569
+#EXTINF:-1 group-title="uk1" ,uk1: Hidayat TV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14962
+#EXTINF:-1 group-title="uk1" ,uk1: History HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3976
+#EXTINF:-1 group-title="uk1" ,uk1: HGTV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14961
+#EXTINF:-1 group-title="uk1" ,uk1: Horror Channel
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3941
+#EXTINF:-1 group-title="uk1" ,uk1: Horror Channel +1
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14774
+#EXTINF:-1 group-title="uk1" ,uk1: Hum TV Europe
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/21535
+#EXTINF:-1 group-title="uk1" ,uk1: Hum TV World
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/21536
+#EXTINF:-1 group-title="uk1" ,uk1: Islam Channel
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/28172
+#EXTINF:-1 group-title="uk1" ,uk1: Islam TV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/28173
+#EXTINF:-1 group-title="uk1" ,uk1: Iqra TV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/25584
+#EXTINF:-1 group-title="uk1" ,uk1: Pop Max +1
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14875
+#EXTINF:-1 group-title="uk1" ,uk1: Ladbrokes 1
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/27029
+#EXTINF:-1 group-title="uk1" ,uk1: Ladbrokes 2
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/27026
+#EXTINF:-1 group-title="uk1" ,uk1: Lifetime HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14938
+#EXTINF:-1 group-title="uk1" ,uk1: Lifetime
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14759
+#EXTINF:-1 group-title="uk1" ,uk1: Liverpool FC TV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3568
+#EXTINF:-1 group-title="uk1" ,uk1: London Live
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14958
+#EXTINF:-1 group-title="uk1" ,uk1: MTV HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/20031
+#EXTINF:-1 group-title="uk1" ,uk1: MTV Base
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/7319
+#EXTINF:-1 group-title="uk1" ,uk1: MTV Classic
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/7320
+#EXTINF:-1 group-title="uk1" ,uk1: MTV Dance Europe HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/13088
+#EXTINF:-1 group-title="uk1" ,uk1: Club MTV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/7318
+#EXTINF:-1 group-title="uk1" ,uk1: MTV Hits
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/7317
+#EXTINF:-1 group-title="uk1" ,uk1: MTV Music
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/7316
+#EXTINF:-1 group-title="uk1" ,uk1: MTV 90s
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/7315
+#EXTINF:-1 group-title="uk1" ,uk1: MTV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/2670
+#EXTINF:-1 group-title="uk1" ,uk1: MUTV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/2655
+#EXTINF:-1 group-title="uk1" ,uk1: Madani Channel
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14957
+#EXTINF:-1 group-title="uk1" ,uk1: More 4 +1
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14871
+#EXTINF:-1 group-title="uk1" ,uk1: More 4 HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/16724
+#EXTINF:-1 group-title="uk1" ,uk1: More 4
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/4000
+#EXTINF:-1 group-title="uk1" ,uk1: Movies 24
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14797
+#EXTINF:-1 group-title="uk1" ,uk1: Sony Movies Action
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/1971
+#EXTINF:-1 group-title="uk1" ,uk1: My Channel
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/15027
+#EXTINF:-1 group-title="uk1" ,uk1: 5 Select
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14709
+#EXTINF:-1 group-title="uk1" ,uk1: National Geographic HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3561
+#EXTINF:-1 group-title="uk1" ,uk1: National Geographic Wild HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/1968
+#EXTINF:-1 group-title="uk1" ,uk1: News 18
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/15026
+#EXTINF:-1 group-title="uk1" ,uk1: Nick HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/16719
+#EXTINF:-1 group-title="uk1" ,uk1: Nick Jr. Peppa
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14828
+#EXTINF:-1 group-title="uk1" ,uk1: Nick Jr.
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/2669
+#EXTINF:-1 group-title="uk1" ,uk1: NickToons
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14824
+#EXTINF:-1 group-title="uk1" ,uk1: Noor TV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/15025
+#EXTINF:-1 group-title="uk1" ,uk1: PBS America
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14870
+#EXTINF:-1 group-title="uk1" ,uk1: Pop +1
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14868
+#EXTINF:-1 group-title="uk1" ,uk1: Pop Max
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14867
+#EXTINF:-1 group-title="uk1" ,uk1: Pop
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14869
+#EXTINF:-1 group-title="uk1" ,uk1: PPTV 1
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/27024
+#EXTINF:-1 group-title="uk1" ,uk1: PPTV 2
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/27025
+#EXTINF:-1 group-title="uk1" ,uk1: PTC Punjabi
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/15020
+#EXTINF:-1 group-title="uk1" ,uk1: Pick
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3958
+#EXTINF:-1 group-title="uk1" ,uk1: Premier Sports 1
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3584
+#EXTINF:-1 group-title="uk1" ,uk1: Quest
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14823
+#EXTINF:-1 group-title="uk1" ,uk1: Rok
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14954
+#EXTINF:-1 group-title="uk1" ,uk1: RT HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3923
+#EXTINF:-1 group-title="uk1" ,uk1: RT
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14821
+#EXTINF:-1 group-title="uk1" ,uk1: RTÉ One HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14930
+#EXTINF:-1 group-title="uk1" ,uk1: RTÉ 2 HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14928
+#EXTINF:-1 group-title="uk1" ,uk1: SIS2
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/27028
+#EXTINF:-1 group-title="uk1" ,uk1: Sonlife TV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/15013
+#EXTINF:-1 group-title="uk1" ,uk1: Sony Movies
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14790
+#EXTINF:-1 group-title="uk1" ,uk1: 5Spike
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/11428
+#EXTINF:-1 group-title="uk1" ,uk1: Star Gold
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/12351
+#EXTINF:-1 group-title="uk1" ,uk1: Star Jalsha
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/12352
+#EXTINF:-1 group-title="uk1" ,uk1: Star Bharat
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/12350
+#EXTINF:-1 group-title="uk1" ,uk1: Star Plus
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14788
+#EXTINF:-1 group-title="uk1" ,uk1: Syfy HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/16727
+#EXTINF:-1 group-title="uk1" ,uk1: Syfy
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3939
+#EXTINF:-1 group-title="uk1" ,uk1: TBN
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/15008
+#EXTINF:-1 group-title="uk1" ,uk1: Talking Pictures TV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/20328
+#EXTINF:-1 group-title="uk1" ,uk1: TCM HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/16721
+#EXTINF:-1 group-title="uk1" ,uk1: TCM
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14736
+#EXTINF:-1 group-title="uk1" ,uk1: TG4
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/4005
+#EXTINF:-1 group-title="uk1" ,uk1: TLC Europe
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/15501
+#EXTINF:-1 group-title="uk1" ,uk1: TLC
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/4027
+#EXTINF:-1 group-title="uk1" ,uk1: TLC HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/20032
+#EXTINF:-1 group-title="uk1" ,uk1: Tiny Pop
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/9898
+#EXTINF:-1 group-title="uk1" ,uk1: Travel Channel
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14818
+#EXTINF:-1 group-title="uk1" ,uk1: Sony Channel
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14859
+#EXTINF:-1 group-title="uk1" ,uk1: UTV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14704
+#EXTINF:-1 group-title="uk1" ,uk1: Sky Comedy HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/16725
+#EXTINF:-1 group-title="uk1" ,uk1: Universal Channel
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14783
+#EXTINF:-1 group-title="uk1" ,uk1: VH1
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3943
+#EXTINF:-1 group-title="uk1" ,uk1: Vice
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14923
+#EXTINF:-1 group-title="uk1" ,uk1: Venus TV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14947
+#EXTINF:-1 group-title="uk1" ,uk1: WH1
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/27033
+#EXTINF:-1 group-title="uk1" ,uk1: WH2
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/27034
+#EXTINF:-1 group-title="uk1" ,uk1: W HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/16726
+#EXTINF:-1 group-title="uk1" ,uk1: Yesterday
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/3962
+#EXTINF:-1 group-title="uk1" ,uk1: MTA Muslim TV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/15028
+#EXTINF:-1 group-title="uk1" ,uk1: Revelation TV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/15018
+#EXTINF:-1 group-title="uk1" ,uk1: FOX
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/17137
+#EXTINF:-1 group-title="uk1" ,uk1: S4C
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/17247
+#EXTINF:-1 group-title="uk1" ,uk1: MTV 80s
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/17388
+#EXTINF:-1 group-title="uk1" ,uk1: Cartoonito
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/18790
+#EXTINF:-1 group-title="uk1" ,uk1: Zee TV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/21533
+#EXTINF:-1 group-title="uk1" ,uk1: Zing TV
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/21534
+#EXTINF:-1 group-title="uk1" ,uk1: ITV 3 FHD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14292
+#EXTINF:-1 group-title="uk1" ,uk1: GOLD HD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/23931
+#EXTINF:-1 group-title="uk1" ,uk1: Virgin Media One
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/24485
+#EXTINF:-1 group-title="uk1" ,uk1: Virgin Media Three
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/24486
+#EXTINF:-1 group-title="uk1" ,uk1: Paramount Network
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/25558
+#EXTINF:-1 group-title="uk1" ,uk1: RT Documentary
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/14966
+#EXTINF:-1 group-title="uk1" ,uk1: Premier Sports 2
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/26594
+#EXTINF:-1 group-title="uk1" ,uk1: Love Nature FHD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/26838
+#EXTINF:-1 group-title="uk1" ,uk1: CNBC FHD
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/29301
+#EXTINF:-1 group-title="uk1" ,uk1: SIS Racing
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/27027
+#EXTINF:-1 group-title="uk1" ,uk1: Sony Movies Classic +1
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/18632
+#EXTINF:-1 group-title="uk1" ,uk1: Discovery World
+http://tv.cruziptv.xdns.pro:80/ro0d05Akfg4569/zqnSWb7763/13405
+#EXTINF:-1 group-title="11" ,11: AFN Farsi Net (US)
+https://unirtmp.tulix.tv/tintv2/tintv2//chunklist.m3u8
+#EXTINF:-1 group-title="11" ,11: AFN TV
+https://unirtmp.tulix.tv/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 group-title="11" ,11: Ayeneh TV
+https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
+#EXTINF:-1 group-title="11" ,11: Ayeneh TV
+https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/chunks.m3u8
+#EXTINF:-1 group-title="11" ,11: Cineseries
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="11" ,11: EBC1 TV
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+#EXTINF:-1 group-title="11" ,11: Ganj e Hozour (US) (Opt-1)
+http://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8
+#EXTINF:-1 group-title="11" ,11: Ganje Hozoor
+https://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8
+#EXTINF:-1 group-title="11" ,11: INTV Simaye Azadi
+https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
+#EXTINF:-1 group-title="11" ,11: Imam Hussein TV 1
+https://live.imamhossaintv.com/live/ih103/index.m3u8
+#EXTINF:-1 group-title="11" ,11: Iran-e Farda TV
+https://bozztv.com/36bay2/gin/giniko_iranefardatv_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="11" ,11: Manoto
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+#EXTINF:-1 group-title="11" ,11: Manoto |HD 1080|
+https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
+#EXTINF:-1 group-title="11" ,11: Manoto |HD 720|
+https://d2rwmwucnr0d10.cloudfront.net/live_1500.m3u8
+#EXTINF:-1 group-title="11" ,11: Manoto |SD|
+https://d2rwmwucnr0d10.cloudfront.net/live_500.m3u8
+#EXTINF:-1 group-title="11" ,11: Mashhad Live 1 (Azadi)
+https://tv.razavi.ir/hls/azadi.m3u8
+#EXTINF:-1 group-title="11" ,11: Mihan TV (US)
+http://iptv.mihantv.com/live/playlist1/index.m3u8
+#EXTINF:-1 group-title="11" ,11: Mihan TV
+https://iptv.mihantv.com/live/playlist1/index.m3u8
+#EXTINF:-1 group-title="11" ,11: Mohabat TV
+https://5acf9f9415a10.streamlock.net:443/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="11" ,11: Mohabat TV
+http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="11" ,11: Navahang TV
+http://163.172.134.85/hls/stream.m3u8
+#EXTINF:-1 group-title="11" ,11: Omid Javedan
+http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/chunks.m3u8
+#EXTINF:-1 group-title="11" ,11: Omid Javedan
+https://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/playlist.m3u8
+#EXTINF:-1 group-title="11" ,11: PBC Tapesh TV (backup)
+http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
+#EXTINF:-1 group-title="11" ,11: Parnian TV
+https://live2.parnian.tv/hls/.m3u8
+#EXTINF:-1 group-title="11" ,11: Pars TV
+https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8
+#EXTINF:-1 group-title="11" ,11: Pars TV
+http://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8
+#EXTINF:-1 group-title="11" ,11: ParsiLand TV (US)
+http://vps.parsiland.net/hls/ParsiLand.m3u8
+#EXTINF:-1 group-title="11" ,11: Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8
+#EXTINF:-1 group-title="11" ,11: Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="11" ,11: Payvand TV
+http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 group-title="11" ,11: Press TV
+https://bozztv.com/36bay2/gin/giniko_presstv_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="11" ,11: Radio Farda
+https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+#EXTINF:-1 group-title="11" ,11: Radio Javan (US) (Opt-2)
+https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="11" ,11: Radio Javan TV
+https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="11" ,11: Rangarang TV
+http://iptv.rangarang.us/live/playlist.m3u8
+#EXTINF:-1 group-title="11" ,11: Rangarang TV
+https://iptv.rangarang.us/live/playlist.m3u8
+#EXTINF:-1 group-title="11" ,11: TIN TV
+https://unirtmp.tulix.tv/tintv/tintv/playlist.m3u8
+#EXTINF:-1 group-title="11" ,11: TV Azadi
+https://5a3e964ed0b51.streamlock.net/w/azadah/playlist.m3u8
+#EXTINF:-1 group-title="11" ,11: TV Azadi
+https://5a3e964ed0b51.streamlock.net/w/azadah/chunklist_w1398305128.m3u8
+#EXTINF:-1 group-title="11" ,11: Tin TV
+https://unirtmp.tulix.tv/tintv/tintv/chunklist.m3u8
+#EXTINF:-1 group-title="11" ,11: VOA Persian
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:-1 group-title="11" ,11: VOA Persian
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:-1 group-title="11" ,11: Varzesh TV 4
+http://163.172.138.186/hls/stream.m3u8
