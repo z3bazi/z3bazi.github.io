@@ -765,6 +765,10 @@ http://51.210.199.45/hls/stream.m3u8
 http://51.210.199.46/hls/stream.m3u8
 #EXTINF:-1 group-title="irnai",47
 http://51.210.199.47/hls/stream.m3u8
+#EXTINF:-1 group-title="irnai",47-1
+https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b2796000.m3u8
+#EXTINF:-1 group-title="irnai",47-2
+https://live.livetvstream.co.uk/LS-63503-3/chunklist_b2796000.m3u8
 #EXTINF:-1 group-title="irnai",48
 http://51.210.199.48/hls/stream.m3u8
 #EXTINF:-1 group-title="irnai",49
@@ -775,6 +779,10 @@ http://51.210.199.50/hls/stream.m3u8
 http://51.210.199.51/hls/stream.m3u8
 #EXTINF:-1 group-title="irnai",52
 http://51.210.199.52/hls/stream.m3u8
+#EXTINF:-1 group-title="Persian Channels",Mashhad Live 1 (Azadi)
+https://tv.razavi.ir/hls/azadi.m3u8
+#EXTINF:-1 group-title="Persian Channels",Mashhad Live 2 (Enghelab)
+https://tv.razavi.ir/hls/enghelab.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" tvg-country="US" tvg-url="" group-title="US",23 ABC (KERO)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-country="US" tvg-url="" group-title="US",24/7 Retro TV
