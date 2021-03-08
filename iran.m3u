@@ -766,9 +766,7 @@ http://51.210.199.46/hls/stream.m3u8
 #EXTINF:-1 group-title="irnai",47
 http://51.210.199.47/hls/stream.m3u8
 #EXTINF:-1 group-title="irnai",47-1
-https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b2796000.m3u8
-#EXTINF:-1 group-title="irnai",47-2
-https://live.livetvstream.co.uk/LS-63503-3/chunklist_b2796000.m3u8
+https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 group-title="irnai",48
 http://51.210.199.48/hls/stream.m3u8
 #EXTINF:-1 group-title="irnai",49
