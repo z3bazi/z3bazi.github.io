@@ -785,6 +785,18 @@ https://tv.razavi.ir/hls/enghelab.m3u8
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
 #EXTINF:-1 tvg-name="Karbala Live 2" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" group-title="irnai",Karbala Live 2
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
+#EXTINF:-1 tvg-id="GEMBollywood.ir" tvg-name="GEM Bollywood" tvg-country="IR" tvg-language="Persian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngYiu1KZP_kImji9D0I57-kcflih6u6QQNgbAoz=s900-c-k-c0x00ffffff-no-rj" group-title="irnai",GEM Bollywood
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMClassic.ir" tvg-name="GEM Classic" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_az.png?14" group-title="irnai",GEM Classic
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMComedy.ir" tvg-name="GEM Comedy" tvg-country="IR" tvg-language="Persian" tvg-logo="http://tvlogo.xyz/iran/gem-comedy.png" group-title="irnai",GEM Comedy
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMDrama.ir" tvg-name="GEM Drama" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/gemdrama.png" group-title="irnai",GEM Drama
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMFilm.ir" tvg-name="GEM Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_film.png?14" group-title="irnai",GEM Film
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_film/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMFood.ir" tvg-name="GEM Food" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_food.png?14" group-title="irnai",GEM Food
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist_960x540_2000k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" tvg-country="US" tvg-url="" group-title="US",23 ABC (KERO)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-country="US" tvg-url="" group-title="US",24/7 Retro TV
