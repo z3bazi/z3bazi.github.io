@@ -551,6 +551,8 @@ https://live.imamhossaintv.com/live/ih103/index.m3u8
 https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Iran International" tvg-language="Persian" tvg-logo="https://i.imgur.com/oeiaea6.png" tvg-country="IR" tvg-url="" group-title="ir",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
+EXTINF:-1 tvg-id="" tvg-name="Afghan International" tvg-language="Persian" tvg-logo="https://i.imgur.com/oeiaea6.png" tvg-country="IR" tvg-url="" group-title="ir",Afghan International
+https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Iran-e Farda TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/wQO4Fiv.png" tvg-country="IR" tvg-url="" group-title="ir",Iran-e Farda TV
 https://bozztv.com/36bay2/gin/giniko_iranefardatv_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IRIB Amoozesh" tvg-language="Persian" tvg-logo="https://i.imgur.com/MbZtaDO.png" tvg-country="IR" tvg-url="" group-title="ir",IRIB Amoozesh
