@@ -1693,3 +1693,7 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 http://dl3.dldigi.site/st01/film/1400/08/No.Time.To.Die.2021.2160p.10bit.HDR.WEB-DL.6CH.x265.SoftSub.DigiMoviez.mkv
 #EXTINF:-1 group-title="new" , new
 https://iptv-org.github.io/iptv/countries/ir.m3u
+#EXTINF:-1 group-title="Just for test" , wonderful-1
+https://crowiptv.com/M3U/47ce6762-343c-4a19-b3f4-592877077f00.m3u
+#EXTINF:-1 group-title="Just for test" , wonderful-2
+http://m3ulink.com:6969/get.php?username=12482861&password=ot6iY1SjNN&type=m3u_plus&output=ts
