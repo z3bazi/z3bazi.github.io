@@ -1,1020 +1,1204 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="IR: VOA Farsi HD" tvg-logo="" group-title="Iran",IR: VOA Farsi HD
+#EXTINF:-1 tvg-ID="" tvg-name="VOA Farsi HD" tvg-logo="" group-title="Iran",VOA Farsi HD
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2339933
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM ACADEMY" tvg-logo="" group-title="Iran",IR: GEM ACADEMY
+#EXTINF:-1 tvg-ID="" tvg-name="GEM ACADEMY" tvg-logo="" group-title="Iran",GEM ACADEMY
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125825
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM Arabic" tvg-logo="" group-title="Iran",IR: GEM Arabic
+#EXTINF:-1 tvg-ID="" tvg-name="GEM Arabic" tvg-logo="" group-title="Iran",GEM Arabic
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125824
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM AZ" tvg-logo="" group-title="Iran",IR: GEM AZ
+#EXTINF:-1 tvg-ID="" tvg-name="GEM AZ" tvg-logo="" group-title="Iran",GEM AZ
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125823
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM Bollywood" tvg-logo="" group-title="Iran",IR: GEM Bollywood
+#EXTINF:-1 tvg-ID="" tvg-name="GEM Bollywood" tvg-logo="" group-title="Iran",GEM Bollywood
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125822
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM CLASSIC" tvg-logo="" group-title="Iran",IR: GEM CLASSIC
+#EXTINF:-1 tvg-ID="" tvg-name="GEM CLASSIC" tvg-logo="" group-title="Iran",GEM CLASSIC
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125821
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM Comedy" tvg-logo="" group-title="Iran",IR: GEM Comedy
+#EXTINF:-1 tvg-ID="" tvg-name="GEM Comedy" tvg-logo="" group-title="Iran",GEM Comedy
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125820
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM FILM" tvg-logo="" group-title="Iran",IR: GEM FILM
+#EXTINF:-1 tvg-ID="" tvg-name="GEM FILM" tvg-logo="" group-title="Iran",GEM FILM
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125819
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM Junior HD" tvg-logo="" group-title="Iran",IR: GEM Junior HD
+#EXTINF:-1 tvg-ID="" tvg-name="GEM Junior HD" tvg-logo="" group-title="Iran",GEM Junior HD
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125818
-#EXTINF:-1 tvg-ID="" tvg-name="IR GEM Junior HD" tvg-logo="" group-title="Iran",IR GEM Junior HD
+#EXTINF:-1 tvg-ID="" tvg-name="IR GEM Junior HD" tvg-logo="" group-title="Iran",GEM Junior HD
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125817
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM Kids HD" tvg-logo="" group-title="Iran",IR: GEM Kids HD
+#EXTINF:-1 tvg-ID="" tvg-name="GEM Kids HD" tvg-logo="" group-title="Iran",GEM Kids HD
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125816
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM Latino" tvg-logo="" group-title="Iran",IR: GEM Latino
+#EXTINF:-1 tvg-ID="" tvg-name="GEM Latino" tvg-logo="" group-title="Iran",GEM Latino
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125815
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM Life HD" tvg-logo="" group-title="Iran",IR: GEM Life HD
+#EXTINF:-1 tvg-ID="" tvg-name="GEM Life HD" tvg-logo="" group-title="Iran",GEM Life HD
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125814
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM River+ FHD" tvg-logo="" group-title="Iran",IR: GEM River+ FHD
+#EXTINF:-1 tvg-ID="" tvg-name="GEM River+ FHD" tvg-logo="" group-title="Iran",GEM River+ FHD
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125813
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM Rubix+ HD" tvg-logo="" group-title="Iran",IR: GEM Rubix+ HD
+#EXTINF:-1 tvg-ID="" tvg-name="GEM Rubix+ HD" tvg-logo="" group-title="Iran",GEM Rubix+ HD
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125812
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM Series HD" tvg-logo="" group-title="Iran",IR: GEM Series HD
+#EXTINF:-1 tvg-ID="" tvg-name="GEM Series HD" tvg-logo="" group-title="Iran",GEM Series HD
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125811
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM Series+ HD" tvg-logo="" group-title="Iran",IR: GEM Series+ HD
+#EXTINF:-1 tvg-ID="" tvg-name="GEM Series+ HD" tvg-logo="" group-title="Iran",GEM Series+ HD
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125810
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM Travel" tvg-logo="" group-title="Iran",IR: GEM Travel
+#EXTINF:-1 tvg-ID="" tvg-name="GEM Travel" tvg-logo="" group-title="Iran",GEM Travel
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125809
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM TV HD" tvg-logo="" group-title="Iran",IR: GEM TV HD
+#EXTINF:-1 tvg-ID="" tvg-name="GEM TV HD" tvg-logo="" group-title="Iran",GEM TV HD
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125808
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM TV+ HD" tvg-logo="" group-title="Iran",IR: GEM TV+ HD
+#EXTINF:-1 tvg-ID="" tvg-name="GEM TV+ HD" tvg-logo="" group-title="Iran",GEM TV+ HD
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125807
-#EXTINF:-1 tvg-ID="" tvg-name="IR: GEM USA FHD" tvg-logo="" group-title="Iran",IR: GEM USA FHD
+#EXTINF:-1 tvg-ID="" tvg-name="GEM USA FHD" tvg-logo="" group-title="Iran",GEM USA FHD
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2125806
-#EXTINF:-1 tvg-ID="" tvg-name="IR: MBC Persia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="Iran",IR: MBC Persia HD
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Persia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="Iran",MBC Persia HD
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/56160
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Caltex Music TV" tvg-logo="http://persiantvchannels.com/wp-content/uploads/2019/09/Caltex-Music-TV.jpg" group-title="Iran",IR: Caltex Music TV
+#EXTINF:-1 tvg-ID="" tvg-name="Caltex Music TV" tvg-logo="http://persiantvchannels.com/wp-content/uploads/2019/09/Caltex-Music-TV.jpg" group-title="Iran",Caltex Music TV
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/56159
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Simay Azadi HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/SimayAzadiIranNationalTV.png" group-title="Iran",IR: Simay Azadi HD
+#EXTINF:-1 tvg-ID="" tvg-name="Simay Azadi HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/SimayAzadiIranNationalTV.png" group-title="Iran",Simay Azadi HD
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/56158
-#EXTINF:-1 tvg-ID="" tvg-name="IR: TV Persia" tvg-logo="https://www.pinclipart.com/picdir/middle/549-5491569_tv-persia-persian-tv-channel-clipart.png" group-title="Iran",IR: TV Persia
+#EXTINF:-1 tvg-ID="" tvg-name="TV Persia" tvg-logo="https://www.pinclipart.com/picdir/middle/549-5491569_tv-persia-persian-tv-channel-clipart.png" group-title="Iran",TV Persia
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2509
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Tik TV" tvg-logo="https://www.digitalphablet.com/wp-content/uploads/2020/08/TikTok-TV-App.jpg" group-title="Iran",IR: Tik TV
+#EXTINF:-1 tvg-ID="" tvg-name="Tik TV" tvg-logo="https://www.digitalphablet.com/wp-content/uploads/2020/08/TikTok-TV-App.jpg" group-title="Iran",Tik TV
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2525
-#EXTINF:-1 tvg-ID="" tvg-name="IR: River TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/RiverTV_Logo_Dark.svg/1280px-RiverTV_Logo_Dark.svg.png" group-title="Iran",IR: River TV
+#EXTINF:-1 tvg-ID="" tvg-name="River TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/RiverTV_Logo_Dark.svg/1280px-RiverTV_Logo_Dark.svg.png" group-title="Iran",River TV
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2518
-#EXTINF:-1 tvg-ID="" tvg-name="IR: PMC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Persian_Media_Corporation.jpg" group-title="Iran",IR: PMC TV
+#EXTINF:-1 tvg-ID="" tvg-name="PMC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Persian_Media_Corporation.jpg" group-title="Iran",PMC TV
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2504
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Persian Star 2" tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/PersianStar2.png" group-title="Iran",IR: Persian Star 2
+#EXTINF:-1 tvg-ID="" tvg-name="Persian Star 2" tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/PersianStar2.png" group-title="Iran",Persian Star 2
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2531
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Pars TV" tvg-logo="https://www.parsatv.com/index_files/channels/parstv.jpg" group-title="Iran",IR: Pars TV
+#EXTINF:-1 tvg-ID="" tvg-name="Pars TV" tvg-logo="https://www.parsatv.com/index_files/channels/parstv.jpg" group-title="Iran",Pars TV
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2539
-#EXTINF:-1 tvg-ID="" tvg-name="IR: ONYX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Onyx.tv-Logo.svg/2560px-Onyx.tv-Logo.svg.png" group-title="Iran",IR: ONYX
+#EXTINF:-1 tvg-ID="" tvg-name="ONYX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Onyx.tv-Logo.svg/2560px-Onyx.tv-Logo.svg.png" group-title="Iran",ONYX
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2561
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Nex1 TV" tvg-logo="https://mpng.subpng.com/20190202/bbw/kisspng-lig-nex1-logo-km-sam-daejeon-brand-5c55e42c976b12.5097280615491328446202.jpg" group-title="Iran",IR: Nex1 TV
+#EXTINF:-1 tvg-ID="" tvg-name="Nex1 TV" tvg-logo="https://mpng.subpng.com/20190202/bbw/kisspng-lig-nex1-logo-km-sam-daejeon-brand-5c55e42c976b12.5097280615491328446202.jpg" group-title="Iran",Nex1 TV
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2506
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Mifa TV" tvg-logo="https://www.parsatv.com/index_files/channels/mifa.png" group-title="Iran",IR: Mifa TV
+#EXTINF:-1 tvg-ID="" tvg-name="Mifa TV" tvg-logo="https://www.parsatv.com/index_files/channels/mifa.png" group-title="Iran",Mifa TV
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2505
-#EXTINF:-1 tvg-ID="" tvg-name="IR: MI TV" tvg-logo="https://www.gizmochina.com/wp-content/uploads/2020/08/Xiaomi-Logo-Featured-1024x608.jpg" group-title="Iran",IR: MI TV
+#EXTINF:-1 tvg-ID="" tvg-name="MI TV" tvg-logo="https://www.gizmochina.com/wp-content/uploads/2020/08/Xiaomi-Logo-Featured-1024x608.jpg" group-title="Iran",MI TV
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2529
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Manoto 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/LOGO_Manoto-Rebrand_2018.png" group-title="Iran",IR: Manoto 1
+#EXTINF:-1 tvg-ID="" tvg-name="Manoto 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/LOGO_Manoto-Rebrand_2018.png" group-title="Iran",Manoto 1
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2508
-#EXTINF:-1 tvg-ID="" tvg-name="IR: ITN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/8/88/20171112090543%21ITN_TV_Sri_Lanka.png" group-title="Iran",IR: ITN
+#EXTINF:-1 tvg-ID="" tvg-name="ITN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/8/88/20171112090543%21ITN_TV_Sri_Lanka.png" group-title="Iran",ITN
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2521
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Irinn TV" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/IRINN.png" group-title="Iran",IR: Irinn TV
+#EXTINF:-1 tvg-ID="" tvg-name="Irinn TV" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/IRINN.png" group-title="Iran",Irinn TV
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2546
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Irib Varzesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/1200px-Varzeshtv.svg.png" group-title="Iran",IR: Irib Varzesh
+#EXTINF:-1 tvg-ID="" tvg-name="Irib Varzesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/1200px-Varzeshtv.svg.png" group-title="Iran",Irib Varzesh
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2559
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Irib Shoma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Shomatv99.png" group-title="Iran",IR: Irib Shoma
+#EXTINF:-1 tvg-ID="" tvg-name="Irib Shoma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Shomatv99.png" group-title="Iran",Irib Shoma
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2550
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Irib Pooya" tvg-logo="https://img.favpng.com/14/1/19/news-islamic-republic-of-iran-broadcasting-irib-pooya-nahal-clip-art-nahal-tv-png-favpng-VXLNh0USUEethJhnA9cssHg4j.jpg" group-title="Iran",IR: Irib Pooya
+#EXTINF:-1 tvg-ID="" tvg-name="Irib Pooya" tvg-logo="https://img.favpng.com/14/1/19/news-islamic-republic-of-iran-broadcasting-irib-pooya-nahal-clip-art-nahal-tv-png-favpng-VXLNh0USUEethJhnA9cssHg4j.jpg" group-title="Iran",Irib Pooya
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2548
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Irib Nasim" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Nasim.png" group-title="Iran",IR: Irib Nasim
+#EXTINF:-1 tvg-ID="" tvg-name="Irib Nasim" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Nasim.png" group-title="Iran",Irib Nasim
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2551
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Irib Namayesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/NAMAYESHTV99.png" group-title="Iran",IR: Irib Namayesh
+#EXTINF:-1 tvg-ID="" tvg-name="Irib Namayesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/NAMAYESHTV99.png" group-title="Iran",Irib Namayesh
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2549
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Irib Mostanad" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/IRIB_Mostanad_logo.png" group-title="Iran",IR: Irib Mostanad
+#EXTINF:-1 tvg-ID="" tvg-name="Irib Mostanad" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/IRIB_Mostanad_logo.png" group-title="Iran",Irib Mostanad
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2557
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Irib 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/IRIB_TV5_Logo.png" group-title="Iran",IR: Irib 5
+#EXTINF:-1 tvg-ID="" tvg-name="Irib 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/IRIB_TV5_Logo.png" group-title="Iran",Irib 5
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2545
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Irib 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/1200px-IRIB_TV4_logo.svg.png" group-title="Iran",IR: Irib 4
+#EXTINF:-1 tvg-ID="" tvg-name="Irib 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/1200px-IRIB_TV4_logo.svg.png" group-title="Iran",Irib 4
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2544
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Irib 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/1200px-IRIB_TV3_LOGO.svg.png" group-title="Iran",IR: Irib 3
+#EXTINF:-1 tvg-ID="" tvg-name="Irib 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/1200px-IRIB_TV3_LOGO.svg.png" group-title="Iran",Irib 3
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2543
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Irib 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/1200px-IRIB_TV2_logo.svg.png" group-title="Iran",IR: Irib 2
+#EXTINF:-1 tvg-ID="" tvg-name="Irib 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/1200px-IRIB_TV2_logo.svg.png" group-title="Iran",Irib 2
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2542
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Irib 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/1200px-IRIBTV1.svg.png" group-title="Iran",IR: Irib 1
+#EXTINF:-1 tvg-ID="" tvg-name="Irib 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/1200px-IRIBTV1.svg.png" group-title="Iran",Irib 1
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2541
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Ifilm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Iran",IR: Ifilm
+#EXTINF:-1 tvg-ID="" tvg-name="Ifilm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Iran",Ifilm
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2555
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Gem USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Gems_TV_2008_logo.png" group-title="Iran",IR: Gem USA TV
+#EXTINF:-1 tvg-ID="" tvg-name="Gem USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Gems_TV_2008_logo.png" group-title="Iran",Gem USA TV
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2513
-#EXTINF:-1 tvg-ID="GEM TV IR" tvg-name="IR: Gem TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Gem_TV_Asia_logo.jpg" group-title="Iran",IR: Gem TV
+#EXTINF:-1 tvg-ID="GEM TV IR" tvg-name="Gem TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Gem_TV_Asia_logo.jpg" group-title="Iran",Gem TV
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2512
-#EXTINF:-1 tvg-ID="GEM Life HD IR" tvg-name="IR: Gem Life" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-gem-life-6332.jpg" group-title="Iran",IR: Gem Life
+#EXTINF:-1 tvg-ID="GEM Life HD IR" tvg-name="Gem Life" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-gem-life-6332.jpg" group-title="Iran",Gem Life
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2514
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Gem Kurd" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/09/gem-kurd.jpg" group-title="Iran",IR: Gem Kurd
+#EXTINF:-1 tvg-ID="" tvg-name="Gem Kurd" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/09/gem-kurd.jpg" group-title="Iran",Gem Kurd
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2503
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Gem Junior" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-gem-junior-9025.jpg" group-title="Iran",IR: Gem Junior
+#EXTINF:-1 tvg-ID="" tvg-name="Gem Junior" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-gem-junior-9025.jpg" group-title="Iran",Gem Junior
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2515
-#EXTINF:-1 tvg-ID="" tvg-name="IR: Gem Bollywood" tvg-logo="https://3.bp.blogspot.com/-MAXF5xqJv40/WgWhFpgNlzI/AAAAAAAALsA/_oVukk2VcGUl2p338nYaxI1ovADvZQsVACLcBGAs/s1600/gem.png" group-title="Iran",IR: Gem Bollywood
+#EXTINF:-1 tvg-ID="" tvg-name="Gem Bollywood" tvg-logo="https://3.bp.blogspot.com/-MAXF5xqJv40/WgWhFpgNlzI/AAAAAAAALsA/_oVukk2VcGUl2p338nYaxI1ovADvZQsVACLcBGAs/s1600/gem.png" group-title="Iran",Gem Bollywood
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2516
-#EXTINF:-1 tvg-ID="BBC Persian IR" tvg-name="IR: BBC Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="Iran",IR: BBC Persian
+#EXTINF:-1 tvg-ID="BBC Persian IR" tvg-name="BBC Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="Iran",BBC Persian
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2536
-#EXTINF:-1 tvg-ID="" tvg-name="IR: IRAN International" tvg-logo="" group-title="Iran",IR: IRAN International
+#EXTINF:-1 tvg-ID="" tvg-name="IRAN International" tvg-logo="" group-title="Iran",IRAN International
 http://m3ulink.com:8080/63557840/2ZuZDNDE22/2126018
 
 
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: 4 kurd
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",4 kurd
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296245
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: 4U TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",4U TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/287450
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: AABC TV (Armenia)
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",AABC TV (Armenia)
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/145983
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: AMG TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",AMG TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296244
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Andisheh TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Andisheh TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5500
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: AVA Family
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",AVA Family
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5491
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: AVA Series
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",AVA Series
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/166818
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Avang TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Avang TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/287452
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Ayeneh TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Ayeneh TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/194243
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: BBC Persian
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",BBC Persian
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/54278
-#EXTINF:0 tvg-id="Bravo.us" group-title="Iran 2",IR: Bravo
+#EXTINF:0 tvg-id="Bravo.us" group-title="Iran 2",Bravo
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296249
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Caltex Music
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Caltex Music
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/163065
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Channel One
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Channel One
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/197740
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: EBC Music
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",EBC Music
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/69510
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Ganj e Hozour TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Ganj e Hozour TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5484
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM 24B
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM 24B
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/166809
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Arabic
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Arabic
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/56815
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM AZ
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM AZ
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/64976
-#EXTINF:0 tvg-id="bollywood-hd" group-title="Iran 2",IR: GEM Bollywood
+#EXTINF:0 tvg-id="bollywood-hd" group-title="Iran 2",GEM Bollywood
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5481
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Classic
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Classic
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5476
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Comedy
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Comedy
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5418
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Crypto
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Crypto
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296371
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Drama
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Drama
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/283194
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Film
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Film
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/166815
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM FIT
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM FIT
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/166807
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Food
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Food
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/283193
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Junior
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Junior
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5474
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Kids
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Kids
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5473
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Latino
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Latino
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/166810
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Life
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Life
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5441
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Maxx
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Maxx
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5442
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Mifa+
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Mifa+
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/279645
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Nature
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Nature
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/166821
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Onyx
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Onyx
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5467
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Property
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Property
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/276033
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM River
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM River
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5471
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM River+
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM River+
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/279652
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Rubix
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Rubix
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/56803
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Rubix+
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Rubix+
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5463
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Series
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Series
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/56816
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Series+
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Series+
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5462
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM Travel
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM Travel
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/64972
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: GEM TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",GEM TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5459
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: High Vision
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",High Vision
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/280245
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Hodhod Farsi TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Hodhod Farsi TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296713
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Honarmandan TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Honarmandan TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5457
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Icnet TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Icnet TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/287456
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Iran Beauty
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Iran Beauty
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/200369
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Iran International
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Iran International
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5444
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Iran Tourism
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Iran Tourism
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296247
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Iranefarda TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Iranefarda TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5445
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB 1
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB 1
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5492
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB 2
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB 2
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5387
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB 3
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB 3
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5386
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB 3 satellite
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB 3 satellite
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296739
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB 4
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB 4
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/56814
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB 5
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB 5
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/56817
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Abadan
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Abadan
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285275
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Aflak
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Aflak
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/294884
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Aftab
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Aftab
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285284
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Alborz
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Alborz
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/196357
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Amouzesh
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Amouzesh
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/21971
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Ara
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Ara
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296434
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Atrak
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Atrak
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296446
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Ayam
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Ayam
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285290
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Azarbayjangharbi
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Azarbayjangharbi
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296437
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Baran
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Baran
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296461
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Bushehr
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Bushehr
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296442
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Dena
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Dena
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296458
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Esfahan
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Esfahan
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296253
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Eshragh
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Eshragh
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296449
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Fars
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Fars
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296452
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Gardesh
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Gardesh
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296435
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Habib
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Habib
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296702
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Hamoon
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Hamoon
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285268
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB IFilm
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB IFilm
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285237
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Ilam
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Ilam
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285257
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB IRINN
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB IRINN
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/169124
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Jahanbin
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Jahanbin
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285259
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Jam
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Jam
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285249
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Jamejam 1
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Jamejam 1
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5443
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Jamejam 2
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Jamejam 2
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296427
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Jamejam 3
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Jamejam 3
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296428
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Javaneh
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Javaneh
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285251
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Kerman
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Kerman
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285270
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Ketabnama
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Ketabnama
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296436
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Khalijefars
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Khalijefars
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/21967
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Khavaran
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Khavaran
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296722
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB khoozestan
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB khoozestan
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296448
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Khorasanrazavi
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Khorasanrazavi
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285280
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Kish
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Kish
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285272
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Kordestan
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Kordestan
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/64958
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Labbayk
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Labbayk
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296704
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Mahabad
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Mahabad
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285276
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Mostanad
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Mostanad
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296418
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Nama
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Nama
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296431
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Namayesh
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Namayesh
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/21949
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Nasim
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Nasim
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/49660
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Nava
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Nava
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285254
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB News Plus
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB News Plus
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296701
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Noor
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Noor
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296454
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Ofogh
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Ofogh
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/182303
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Omid
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Omid
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296422
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Pooya
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Pooya
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/64957
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Qazvin
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Qazvin
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285267
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Sabalan
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Sabalan
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285274
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Sabz
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Sabz
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296460
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Sahand
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Sahand
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296438
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Salamat
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Salamat
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/56823
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Semnan
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Semnan
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/64953
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Sepehr
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Sepehr
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285248
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Shoma
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Shoma
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/64952
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Sina
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Sina
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296721
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Taban
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Taban
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285271
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Tabarestan
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Tabarestan
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296718
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Tamasha
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Tamasha
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/64949
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Varzesh TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Varzesh TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5381
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: IRIB Zagros
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",IRIB Zagros
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296457
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Israel Pars TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Israel Pars TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/285642
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: ITN
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",ITN
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/64961
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Kalemeh TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Kalemeh TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/199220
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Maah TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Maah TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/287625
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: manoto
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",manoto
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/98
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: manoto +1
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",manoto +1
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/282309
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: manoto 1080
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",manoto 1080
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/99
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: MBC Persia
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",MBC Persia
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5435
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Mihan TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Mihan TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5431
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Mohabat TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Mohabat TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5430
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: My Movie
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",My Movie
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/287785
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Navahang TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Navahang TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/196358
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Omid Javedan
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Omid Javedan
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/18660
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Omide Iran
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Omide Iran
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/287460
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Oxir TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Oxir TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/196367
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Parnian TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Parnian TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/197344
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Pars TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Pars TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/194254
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Parsiland TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Parsiland TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/192085
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Payam Javan TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Payam Javan TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/284220
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Payame Aramesh TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Payame Aramesh TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/166230
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Payvand TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Payvand TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5417
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: PBC Tapesh
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",PBC Tapesh
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/21944
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Persian Bazar
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Persian Bazar
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/196369
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Persian Film
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Persian Film
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/287464
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Persiana Cinema
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Persiana Cinema
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/225271
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Persiana Classic
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Persiana Classic
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/225270
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Persiana Comedy
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Persiana Comedy
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/225267
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Persiana Family
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Persiana Family
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/225273
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Persiana Game & Tech
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Persiana Game & Tech
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/225275
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Persiana Iranian
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Persiana Iranian
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/225276
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Persiana Junior
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Persiana Junior
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/279653
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Persiana Korea
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Persiana Korea
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/287466
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Persiana Music
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Persiana Music
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/225266
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Persiana Nostalgia
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Persiana Nostalgia
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/225274
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Persiana One
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Persiana One
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/165039
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Persiana Sonnati
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Persiana Sonnati
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/296657
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: PMC
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",PMC
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/21947
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: PMC Royale
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",PMC Royale
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/283038
-#EXTINF:0 tvg-id="PrimaTV.hu" group-title="Iran 2",IR: Prima TV
+#EXTINF:0 tvg-id="PrimaTV.hu" group-title="Iran 2",Prima TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/287784
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Radio Farda
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Radio Farda
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5410
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Radio Javan TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Radio Javan TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5408
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Royal Time
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Royal Time
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/69536
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Sahand TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Sahand TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/64954
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Sahar Balkan
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Sahar Balkan
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/287791
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Sahar Kurdi
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Sahar Kurdi
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/14710
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Salaam TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Salaam TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/166274
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Sat 7 Pars
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Sat 7 Pars
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5419
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Sepanj TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Sepanj TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/287473
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Simaye Azadi
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Simaye Azadi
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5398
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: SL 1
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",SL 1
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/287469
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: SL 2
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",SL 2
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/287470
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: SNN TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",SNN TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/287471
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: TAPESH 2
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",TAPESH 2
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/287474
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: TIN TV
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",TIN TV
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5391
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Toonix
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Toonix
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/287475
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: VOA TV Persian
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",VOA TV Persian
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5378
-#EXTINF:0 tvg-id="VOX.svn" group-title="Iran 2",IR: Vox 1
+#EXTINF:0 tvg-id="VOX.svn" group-title="Iran 2",Vox 1
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/225223
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: Vox 2
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",Vox 2
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/287477
-#EXTINF:0 tvg-id="ext" group-title="Iran 2",IR: YourTime
+#EXTINF:0 tvg-id="ext" group-title="Iran 2",YourTime
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/69538
 
 
-#EXTINF:-1 group-title="Iran 3" , IR : 4U CARTOON
+#EXTINF:-1 group-title="Iran 3" ,4U CARTOON
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228314
-#EXTINF:-1 group-title="Iran 3" , IR : ABADAN
+#EXTINF:-1 group-title="Iran 3" ,ABADAN
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228315
-#EXTINF:-1 group-title="Iran 3" , IR : AFLAK
+#EXTINF:-1 group-title="Iran 3" ,AFLAK
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228316
-#EXTINF:-1 group-title="Iran 3" , IR : AFTAB
+#EXTINF:-1 group-title="Iran 3" ,AFTAB
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228317
-#EXTINF:-1 group-title="Iran 3" , IR : AMOOZESH
+#EXTINF:-1 group-title="Iran 3" ,AMOOZESH
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228318
-#EXTINF:-1 group-title="Iran 3" , IR : ANDISHEH TV
+#EXTINF:-1 group-title="Iran 3" ,ANDISHEH TV
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228319
-#EXTINF:-1 group-title="Iran 3" , IR : AYENEH TV
+#EXTINF:-1 group-title="Iran 3" ,AYENEH TV
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228320
-#EXTINF:-1 group-title="Iran 3" , IR : BARAN
+#EXTINF:-1 group-title="Iran 3" ,BARAN
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228321
-#EXTINF:-1 group-title="Iran 3" , IR : BAZAR
+#EXTINF:-1 group-title="Iran 3" ,BAZAR
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228322
-#EXTINF:-1 group-title="Iran 3" , IR : BBC PERSIAN
+#EXTINF:-1 group-title="Iran 3" ,BBC PERSIAN
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228323
-#EXTINF:-1 group-title="Iran 3" , IR : CHANNEL ONE
+#EXTINF:-1 group-title="Iran 3" ,CHANNEL ONE
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228324
-#EXTINF:-1 group-title="Iran 3" , IR : CHANNEL ONE TV
+#EXTINF:-1 group-title="Iran 3" ,CHANNEL ONE TV
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228325
-#EXTINF:-1 group-title="Iran 3" , IR : CINEFILM FHD
+#EXTINF:-1 group-title="Iran 3" ,CINEFILM FHD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228326
-#EXTINF:-1 group-title="Iran 3" , IR : DIDAH TV
+#EXTINF:-1 group-title="Iran 3" ,DIDAH TV
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228327
-#EXTINF:-1 group-title="Iran 3" , IR : DIDGAH TV
+#EXTINF:-1 group-title="Iran 3" ,DIDGAH TV
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228328
-#EXTINF:-1 group-title="Iran 3" , IR : ESFAHAN
+#EXTINF:-1 group-title="Iran 3" ,ESFAHAN
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228329
-#EXTINF:-1 group-title="Iran 3" , IR : EURONEWS FARSI
+#EXTINF:-1 group-title="Iran 3" ,EURONEWS FARSI
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228330
-#EXTINF:-1 group-title="Iran 3" , IR : FARS
+#EXTINF:-1 group-title="Iran 3" ,FARS
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228331
-#EXTINF:-1 group-title="Iran 3" , IR : GANGE HOZOOR
+#EXTINF:-1 group-title="Iran 3" ,GANGE HOZOOR
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228332
-#EXTINF:-1 group-title="Iran 3" , IR : GANJE HOZOUR
+#EXTINF:-1 group-title="Iran 3" ,GANJE HOZOUR
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228333
-#EXTINF:-1 group-title="Iran 3" , IR : GEM ARABIC
+#EXTINF:-1 group-title="Iran 3" ,GEM ARABIC
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228334
-#EXTINF:-1 group-title="Iran 3" , IR : GEM BOLLYWOOD
+#EXTINF:-1 group-title="Iran 3" ,GEM BOLLYWOOD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228335
-#EXTINF:-1 group-title="Iran 3" , IR : GEM BOLLYWOOD HD
+#EXTINF:-1 group-title="Iran 3" ,GEM BOLLYWOOD HD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228336
-#EXTINF:-1 group-title="Iran 3" , IR : GEM CLASSIC
+#EXTINF:-1 group-title="Iran 3" ,GEM CLASSIC
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228337
-#EXTINF:-1 group-title="Iran 3" , IR : GEM DRAMA
+#EXTINF:-1 group-title="Iran 3" ,GEM DRAMA
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228338
-#EXTINF:-1 group-title="Iran 3" , IR : GEM EDUCATION HD
+#EXTINF:-1 group-title="Iran 3" ,GEM EDUCATION HD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228339
-#EXTINF:-1 group-title="Iran 3" , IR : GEM FAMILY HD
+#EXTINF:-1 group-title="Iran 3" ,GEM FAMILY HD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228340
-#EXTINF:-1 group-title="Iran 3" , IR : GEM FOOD
+#EXTINF:-1 group-title="Iran 3" ,GEM FOOD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228341
-#EXTINF:-1 group-title="Iran 3" , IR : GEM JUNIOR
+#EXTINF:-1 group-title="Iran 3" ,GEM JUNIOR
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228342
-#EXTINF:-1 group-title="Iran 3" , IR : GEM JUNIOR HD
+#EXTINF:-1 group-title="Iran 3" ,GEM JUNIOR HD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228343
-#EXTINF:-1 group-title="Iran 3" , IR : GEM KIDS HD
+#EXTINF:-1 group-title="Iran 3" ,GEM KIDS HD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228344
-#EXTINF:-1 group-title="Iran 3" , IR : GEM LIFE
+#EXTINF:-1 group-title="Iran 3" ,GEM LIFE
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228345
-#EXTINF:-1 group-title="Iran 3" , IR : GEM MIFA
+#EXTINF:-1 group-title="Iran 3" ,GEM MIFA
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228346
-#EXTINF:-1 group-title="Iran 3" , IR : GEM ONYX
+#EXTINF:-1 group-title="Iran 3" ,GEM ONYX
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228347
-#EXTINF:-1 group-title="Iran 3" , IR : GEM ONYX HD
+#EXTINF:-1 group-title="Iran 3" ,GEM ONYX HD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228348
-#EXTINF:-1 group-title="Iran 3" , IR : GEM RIVER
+#EXTINF:-1 group-title="Iran 3" ,GEM RIVER
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228349
-#EXTINF:-1 group-title="Iran 3" , IR : GEM RIVER HD
+#EXTINF:-1 group-title="Iran 3" ,GEM RIVER HD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228350
-#EXTINF:-1 group-title="Iran 3" , IR : GEM RUBIX
+#EXTINF:-1 group-title="Iran 3" ,GEM RUBIX
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228351
-#EXTINF:-1 group-title="Iran 3" , IR : GEM RUBIX  HD
+#EXTINF:-1 group-title="Iran 3" ,GEM RUBIX  HD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228352
-#EXTINF:-1 group-title="Iran 3" , IR : GEM SERIES FHD
+#EXTINF:-1 group-title="Iran 3" ,GEM SERIES FHD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228353
-#EXTINF:-1 group-title="Iran 3" , IR : GEM TRAVEL
+#EXTINF:-1 group-title="Iran 3" ,GEM TRAVEL
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228354
-#EXTINF:-1 group-title="Iran 3" , IR : GEM TV
+#EXTINF:-1 group-title="Iran 3" ,GEM TV
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228355
-#EXTINF:-1 group-title="Iran 3" , IR : GEM TV HD
+#EXTINF:-1 group-title="Iran 3" ,GEM TV HD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228356
-#EXTINF:-1 group-title="Iran 3" , IR : GEM TV USA
+#EXTINF:-1 group-title="Iran 3" ,GEM TV USA
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228357
-#EXTINF:-1 group-title="Iran 3" , IR : HADI TV 4
+#EXTINF:-1 group-title="Iran 3" ,HADI TV 4
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228358
-#EXTINF:-1 group-title="Iran 3" , IR : IFILM
+#EXTINF:-1 group-title="Iran 3" ,IFILM
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228359
-#EXTINF:-1 group-title="Iran 3" , IR : IFILM (ARABIC)
+#EXTINF:-1 group-title="Iran 3" ,IFILM (ARABIC)
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228360
-#EXTINF:-1 group-title="Iran 3" , IR : IFILM (ENG)
+#EXTINF:-1 group-title="Iran 3" ,IFILM (ENG)
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228361
-#EXTINF:-1 group-title="Iran 3" , IR : IFILM HD
+#EXTINF:-1 group-title="Iran 3" ,IFILM HD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228362
-#EXTINF:-1 group-title="Iran 3" , IR : IMAM HUSSEIN TV
+#EXTINF:-1 group-title="Iran 3" ,IMAM HUSSEIN TV
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228363
-#EXTINF:-1 group-title="Iran 3" , IR : IRAN A TV
+#EXTINF:-1 group-title="Iran 3" ,IRAN A TV
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228364
-#EXTINF:-1 group-title="Iran 3" , IR : IRAN INTERNATIONAL
+#EXTINF:-1 group-title="Iran 3" ,IRAN INTERNATIONAL
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228365
-#EXTINF:-1 group-title="Iran 3" , IR : IRIB KORDESTAN
+#EXTINF:-1 group-title="Iran 3" ,IRIB KORDESTAN
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228366
-#EXTINF:-1 group-title="Iran 3" , IR : JAAME JAM
+#EXTINF:-1 group-title="Iran 3" ,JAAME JAM
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228367
-#EXTINF:-1 group-title="Iran 3" , IR : KHABAR
+#EXTINF:-1 group-title="Iran 3" ,KHABAR
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228368
-#EXTINF:-1 group-title="Iran 3" , IR : KHANE FILM
+#EXTINF:-1 group-title="Iran 3" ,KHANE FILM
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228369
-#EXTINF:-1 group-title="Iran 3" , IR : KHOOZESTAN
+#EXTINF:-1 group-title="Iran 3" ,KHOOZESTAN
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228370
-#EXTINF:-1 group-title="Iran 3" , IR : KLICK SAT
+#EXTINF:-1 group-title="Iran 3" ,KLICK SAT
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228371
-#EXTINF:-1 group-title="Iran 3" , IR : MANOTO
+#EXTINF:-1 group-title="Iran 3" ,MANOTO
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228372
-#EXTINF:-1 group-title="Iran 3" , IR : MBC PERSIA HD
+#EXTINF:-1 group-title="Iran 3" ,MBC PERSIA HD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228373
-#EXTINF:-1 group-title="Iran 3" , IR : MIHAN TV
+#EXTINF:-1 group-title="Iran 3" ,MIHAN TV
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228374
-#EXTINF:-1 group-title="Iran 3" , IR : MOHABAT TV
+#EXTINF:-1 group-title="Iran 3" ,MOHABAT TV
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228375
-#EXTINF:-1 group-title="Iran 3" , IR : MOVIE24
+#EXTINF:-1 group-title="Iran 3" ,MOVIE24
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228376
-#EXTINF:-1 group-title="Iran 3" , IR : NAMA TV
+#EXTINF:-1 group-title="Iran 3" ,NAMA TV
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228377
-#EXTINF:-1 group-title="Iran 3" , IR : NAMAYESH
+#EXTINF:-1 group-title="Iran 3" ,NAMAYESH
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228378
-#EXTINF:-1 group-title="Iran 3" , IR : OFOGH
+#EXTINF:-1 group-title="Iran 3" ,OFOGH
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228379
-#EXTINF:-1 group-title="Iran 3" , IR : OMIDE JAVEDAN
+#EXTINF:-1 group-title="Iran 3" ,OMIDE JAVEDAN
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228380
-#EXTINF:-1 group-title="Iran 3" , IR : PAYAME ARAMESH
+#EXTINF:-1 group-title="Iran 3" ,PAYAME ARAMESH
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228381
-#EXTINF:-1 group-title="Iran 3" , IR : PAYVAND TV
+#EXTINF:-1 group-title="Iran 3" ,PAYVAND TV
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228382
-#EXTINF:-1 group-title="Iran 3" , IR : PERSIAN STAR 1
+#EXTINF:-1 group-title="Iran 3" ,PERSIAN STAR 1
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228383
-#EXTINF:-1 group-title="Iran 3" , IR : RADIO FARDA
+#EXTINF:-1 group-title="Iran 3" ,RADIO FARDA
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228384
-#EXTINF:-1 group-title="Iran 3" , IR : RADIO JAVAN TV
+#EXTINF:-1 group-title="Iran 3" ,RADIO JAVAN TV
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228385
-#EXTINF:-1 group-title="Iran 3" , IR : RADIO JAVAN TV HD
+#EXTINF:-1 group-title="Iran 3" ,RADIO JAVAN TV HD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228386
-#EXTINF:-1 group-title="Iran 3" , IR : SAHAND
+#EXTINF:-1 group-title="Iran 3" ,SAHAND
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228387
-#EXTINF:-1 group-title="Iran 3" , IR : SALAMAT TV
+#EXTINF:-1 group-title="Iran 3" ,SALAMAT TV
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228388
-#EXTINF:-1 group-title="Iran 3" , IR : SAT-7 PARS
+#EXTINF:-1 group-title="Iran 3" ,SAT-7 PARS
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228389
-#EXTINF:-1 group-title="Iran 3" , IR : SHOMA
+#EXTINF:-1 group-title="Iran 3" ,SHOMA
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228390
-#EXTINF:-1 group-title="Iran 3" , IR : SIMAYE AZADI
+#EXTINF:-1 group-title="Iran 3" ,SIMAYE AZADI
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228391
-#EXTINF:-1 group-title="Iran 3" , IR : TAMASHA
+#EXTINF:-1 group-title="Iran 3" ,TAMASHA
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228392
-#EXTINF:-1 group-title="Iran 3" , IR : TAPESH TV
+#EXTINF:-1 group-title="Iran 3" ,TAPESH TV
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228393
-#EXTINF:-1 group-title="Iran 3" , IR : TIN TV HD
+#EXTINF:-1 group-title="Iran 3" ,TIN TV HD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228394
-#EXTINF:-1 group-title="Iran 3" , IR : TM TV
+#EXTINF:-1 group-title="Iran 3" ,TM TV
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228395
-#EXTINF:-1 group-title="Iran 3" , IR : TV3
+#EXTINF:-1 group-title="Iran 3" ,TV3
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228396
-#EXTINF:-1 group-title="Iran 3" , IR : VARZESH
+#EXTINF:-1 group-title="Iran 3" ,VARZESH
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228397
-#EXTINF:-1 group-title="Iran 3" , IR : VARZESH (1000)
+#EXTINF:-1 group-title="Iran 3" ,VARZESH (1000)
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228398
-#EXTINF:-1 group-title="Iran 3" , IR : VARZISH SPORT HD
+#EXTINF:-1 group-title="Iran 3" ,VARZISH SPORT HD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228399
-#EXTINF:-1 group-title="Iran 3" , IR : VOA PNN HD
+#EXTINF:-1 group-title="Iran 3" ,VOA PNN HD
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/228400
 
 
-#EXTINF:-1 group-title="Iran 4",[IR] Gem Drama
+#EXTINF:-1 group-title="Iran 4",Gem Drama
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14480
-#EXTINF:-1 group-title="Iran 4",[IR] GEM+ TV
+#EXTINF:-1 group-title="Iran 4",GEM+ TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14482
-#EXTINF:-1 group-title="Iran 4",[IR] GEM KIDS
+#EXTINF:-1 group-title="Iran 4",GEM KIDS
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14483
-#EXTINF:-1 group-title="Iran 4",[IR] Gem TV
+#EXTINF:-1 group-title="Iran 4",Gem TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14484
-#EXTINF:-1 group-title="Iran 4",[IR] Gem Bollywood
+#EXTINF:-1 group-title="Iran 4",Gem Bollywood
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14485
-#EXTINF:-1 group-title="Iran 4",[IR] GEM Junior
+#EXTINF:-1 group-title="Iran 4",GEM Junior
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14488
-#EXTINF:-1 group-title="Iran 4",[IR] Gem Life
+#EXTINF:-1 group-title="Iran 4",Gem Life
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14489
-#EXTINF:-1 group-title="Iran 4",[IR] Gem Comedy
+#EXTINF:-1 group-title="Iran 4",Gem Comedy
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14490
-#EXTINF:-1 group-title="Iran 4",[IR] GEM FILM
+#EXTINF:-1 group-title="Iran 4",GEM FILM
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14492
-#EXTINF:-1 group-title="Iran 4",[IR] Gem Food
+#EXTINF:-1 group-title="Iran 4",Gem Food
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14493
-#EXTINF:-1 group-title="Iran 4",[IR] Gem River
+#EXTINF:-1 group-title="Iran 4",Gem River
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14495
-#EXTINF:-1 group-title="Iran 4",[IR] Gem Rubix
+#EXTINF:-1 group-title="Iran 4",Gem Rubix
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14496
-#EXTINF:-1 group-title="Iran 4",[IR] Gem TRAVEL
+#EXTINF:-1 group-title="Iran 4",Gem TRAVEL
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14497
-#EXTINF:-1 group-title="Iran 4",[IR] Gem Travel
+#EXTINF:-1 group-title="Iran 4",Gem Travel
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14498
-#EXTINF:-1 group-title="Iran 4",[IR] GEM AZ 
+#EXTINF:-1 group-title="Iran 4",GEM AZ 
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14501
-#EXTINF:-1 group-title="Iran 4",[IR] IRIB TV 1
+#EXTINF:-1 group-title="Iran 4",IRIB TV 1
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14503
-#EXTINF:-1 group-title="Iran 4",[IR] IRIB TV 2
+#EXTINF:-1 group-title="Iran 4",IRIB TV 2
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14504
-#EXTINF:-1 group-title="Iran 4",[IR] IRIB TV 3
+#EXTINF:-1 group-title="Iran 4",IRIB TV 3
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14505
-#EXTINF:-1 group-title="Iran 4",[IR] IRIB TV 4
+#EXTINF:-1 group-title="Iran 4",IRIB TV 4
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14506
-#EXTINF:-1 group-title="Iran 4",[IR] IRIB TV 5
+#EXTINF:-1 group-title="Iran 4",IRIB TV 5
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14507
-#EXTINF:-1 group-title="Iran 4",[IR] IRIB OFOGH
+#EXTINF:-1 group-title="Iran 4",IRIB OFOGH
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14509
-#EXTINF:-1 group-title="Iran 4",[IR] IRIB Salamat
+#EXTINF:-1 group-title="Iran 4",IRIB Salamat
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14510
-#EXTINF:-1 group-title="Iran 4",[IR] Irib Namayesh
+#EXTINF:-1 group-title="Iran 4",Irib Namayesh
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14512
-#EXTINF:-1 group-title="Iran 4",[IR] Irrib Khalij
+#EXTINF:-1 group-title="Iran 4",Irrib Khalij
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14516
-#EXTINF:-1 group-title="Iran 4",[IR] Iran International
+#EXTINF:-1 group-title="Iran 4",Iran International
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14522
-#EXTINF:-1 group-title="Iran 4",[IR] IRIB Varzesh
+#EXTINF:-1 group-title="Iran 4",IRIB Varzesh
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14523
-#EXTINF:-1 group-title="Iran 4",[IR] IRINN
+#EXTINF:-1 group-title="Iran 4",IRINN
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14524
-#EXTINF:-1 group-title="Iran 4",[IR] Mostanad
+#EXTINF:-1 group-title="Iran 4",Mostanad
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14526
-#EXTINF:-1 group-title="Iran 4",[IR] Cine Series
+#EXTINF:-1 group-title="Iran 4",Cine Series
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14530
-#EXTINF:-1 group-title="Iran 4",[IR] Cine Film
+#EXTINF:-1 group-title="Iran 4",Cine Film
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14531
-#EXTINF:-1 group-title="Iran 4",[IR] Radio Javan
+#EXTINF:-1 group-title="Iran 4",Radio Javan
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14534
-#EXTINF:-1 group-title="Iran 4",[IR] GEM Mifa
+#EXTINF:-1 group-title="Iran 4",GEM Mifa
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14536
-#EXTINF:-1 group-title="Iran 4",[IR] Oxir
+#EXTINF:-1 group-title="Iran 4",Oxir
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14537
-#EXTINF:-1 group-title="Iran 4",[IR] ITN
+#EXTINF:-1 group-title="Iran 4",ITN
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14538
-#EXTINF:-1 group-title="Iran 4",[IR] VOX 1
+#EXTINF:-1 group-title="Iran 4",VOX 1
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14542
-#EXTINF:-1 group-title="Iran 4",[IR] Tapesh
+#EXTINF:-1 group-title="Iran 4",Tapesh
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14548
-#EXTINF:-1 group-title="Iran 4",[IR] VoA TV Persian
+#EXTINF:-1 group-title="Iran 4",VoA TV Persian
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14552
-#EXTINF:-1 group-title="Iran 4",[IR] Imam Hossein
+#EXTINF:-1 group-title="Iran 4",Imam Hossein
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14568
-#EXTINF:-1 group-title="Iran 4",[IR] Irib Sahand TV
+#EXTINF:-1 group-title="Iran 4",Irib Sahand TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14570
-#EXTINF:-1 group-title="Iran 4",[IR] Pars TV
+#EXTINF:-1 group-title="Iran 4",Pars TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14573
-#EXTINF:-1 group-title="Iran 4",[IR] Sima News
+#EXTINF:-1 group-title="Iran 4",Sima News
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/14580
-#EXTINF:-1 group-title="Iran 4",IRAN | Al-Sirat
+#EXTINF:-1 group-title="Iran 4",Al-Sirat
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48432
-#EXTINF:-1 group-title="Iran 4",IRAN | Andisheh TV
+#EXTINF:-1 group-title="Iran 4",Andisheh TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48433
-#EXTINF:-1 group-title="Iran 4",IRAN | EBC1 TV
+#EXTINF:-1 group-title="Iran 4",EBC1 TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48435
-#EXTINF:-1 group-title="Iran 4",IRAN | Ganje Hozoor
+#EXTINF:-1 group-title="Iran 4",Ganje Hozoor
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48440
-#EXTINF:-1 group-title="Iran 4",IRAN | INTV Simaye Azadi
+#EXTINF:-1 group-title="Iran 4",INTV Simaye Azadi
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48444
-#EXTINF:-1 group-title="Iran 4",IRAN | Imam Hussein TV 1
+#EXTINF:-1 group-title="Iran 4",Imam Hussein TV 1
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48453
-#EXTINF:-1 group-title="Iran 4",IRAN | Iran International
+#EXTINF:-1 group-title="Iran 4",Iran International
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48454
-#EXTINF:-1 group-title="Iran 4",IRAN | Iran-e Farda TV
+#EXTINF:-1 group-title="Iran 4",Iran-e Farda TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48455
-#EXTINF:-1 group-title="Iran 4",IRAN | Kalemeh TV
+#EXTINF:-1 group-title="Iran 4",Kalemeh TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48456
-#EXTINF:-1 group-title="Iran 4",IRAN | Karbala Live 1
+#EXTINF:-1 group-title="Iran 4",Karbala Live 1
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48457
-#EXTINF:-1 group-title="Iran 4",IRAN | Karbala Live 3
+#EXTINF:-1 group-title="Iran 4",Karbala Live 3
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48459
-#EXTINF:-1 group-title="Iran 4",IRAN | Karbala Live 4
+#EXTINF:-1 group-title="Iran 4",Karbala Live 4
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48460
-#EXTINF:-1 group-title="Iran 4",IRAN | Parnian TV
+#EXTINF:-1 group-title="Iran 4",Parnian TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48468
-#EXTINF:-1 group-title="Iran 4",IRAN | Pars TV
+#EXTINF:-1 group-title="Iran 4",Pars TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48469
-#EXTINF:-1 group-title="Iran 4",IRAN | Radio Javan TV
+#EXTINF:-1 group-title="Iran 4",Radio Javan TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48474
-#EXTINF:-1 group-title="Iran 4",IR: AVA Music FHD
+#EXTINF:-1 group-title="Iran 4",AVA Music FHD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48486
-#EXTINF:-1 group-title="Iran 4",IR: EBC1
+#EXTINF:-1 group-title="Iran 4",EBC1
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48489
-#EXTINF:-1 group-title="Iran 4",IR: GEM Arabic
+#EXTINF:-1 group-title="Iran 4",GEM Arabic
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48492
-#EXTINF:-1 group-title="Iran 4",IR: GEM CLASSIC
+#EXTINF:-1 group-title="Iran 4",GEM CLASSIC
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48495
-#EXTINF:-1 group-title="Iran 4",IR: GEM Junior HD
+#EXTINF:-1 group-title="Iran 4",GEM Junior HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48500
-#EXTINF:-1 group-title="Iran 4",IR GEM Junior HD
+#EXTINF:-1 group-title="Iran 4",GEM Junior HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48501
-#EXTINF:-1 group-title="Iran 4",IR: GEM Kids HD
+#EXTINF:-1 group-title="Iran 4",GEM Kids HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48502
-#EXTINF:-1 group-title="Iran 4",IR: GEM Latino
+#EXTINF:-1 group-title="Iran 4",GEM Latino
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48503
-#EXTINF:-1 group-title="Iran 4",IR: GEM MUSIC
+#EXTINF:-1 group-title="Iran 4",GEM MUSIC
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48507
-#EXTINF:-1 group-title="Iran 4",IR: GEM Rubix+ HD
+#EXTINF:-1 group-title="Iran 4",GEM Rubix+ HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48512
-#EXTINF:-1 group-title="Iran 4",IR: GEM Series HD
+#EXTINF:-1 group-title="Iran 4",GEM Series HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48513
-#EXTINF:-1 group-title="Iran 4",IR: GEM Series+ HD
+#EXTINF:-1 group-title="Iran 4",GEM Series+ HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48514
-#EXTINF:-1 group-title="Iran 4",IR: IRAN International FHD
+#EXTINF:-1 group-title="Iran 4",IRAN International FHD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48519
-#EXTINF:-1 group-title="Iran 4",IR: IRIB Aflak
+#EXTINF:-1 group-title="Iran 4",IRIB Aflak
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48522
-#EXTINF:-1 group-title="Iran 4",IR: IRIB Amoozesh TV
+#EXTINF:-1 group-title="Iran 4",IRIB Amoozesh TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48523
-#EXTINF:-1 group-title="Iran 4",IR: IRIB iFilm Farsi
+#EXTINF:-1 group-title="Iran 4",IRIB iFilm Farsi
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48525
-#EXTINF:-1 group-title="Iran 4",IR: IRIB IRINN
+#EXTINF:-1 group-title="Iran 4",IRIB IRINN
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48526
-#EXTINF:-1 group-title="Iran 4",IR: IRIB Mostanad
+#EXTINF:-1 group-title="Iran 4",IRIB Mostanad
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48528
-#EXTINF:-1 group-title="Iran 4",IR: IRIB Namayesh
+#EXTINF:-1 group-title="Iran 4",IRIB Namayesh
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48529
-#EXTINF:-1 group-title="Iran 4",IR: IRIB Nasim
+#EXTINF:-1 group-title="Iran 4",IRIB Nasim
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48530
-#EXTINF:-1 group-title="Iran 4",IR: IRIB Salamat
+#EXTINF:-1 group-title="Iran 4",IRIB Salamat
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48535
-#EXTINF:-1 group-title="Iran 4",IR: IRIB Semnan
+#EXTINF:-1 group-title="Iran 4",IRIB Semnan
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48536
-#EXTINF:-1 group-title="Iran 4",IR: IRIB Shoma
+#EXTINF:-1 group-title="Iran 4",IRIB Shoma
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48537
-#EXTINF:-1 group-title="Iran 4",IR: IRIB TV 3
+#EXTINF:-1 group-title="Iran 4",IRIB TV 3
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48539
-#EXTINF:-1 group-title="Iran 4",IR: ITN
+#EXTINF:-1 group-title="Iran 4",ITN
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48541
-#EXTINF:-1 group-title="Iran 4",IR: manoto FHD
+#EXTINF:-1 group-title="Iran 4",manoto FHD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48542
-#EXTINF:-1 group-title="Iran 4",IR: manoto HD
+#EXTINF:-1 group-title="Iran 4",manoto HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48543
-#EXTINF:-1 group-title="Iran 4",IR: Radio Farda
+#EXTINF:-1 group-title="Iran 4",Radio Farda
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48547
-#EXTINF:-1 group-title="Iran 4",IR: Radio Javan FHD
+#EXTINF:-1 group-title="Iran 4",Radio Javan FHD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48548
-#EXTINF:-1 group-title="Iran 4",IR: YOURTIME
+#EXTINF:-1 group-title="Iran 4",YOURTIME
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/48552
-#EXTINF:-1 group-title="Iran 4",IR | Al Alam News
+#EXTINF:-1 group-title="Iran 4",Al Alam News
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59651
-#EXTINF:-1 group-title="Iran 4",IR | Al Kawthar
+#EXTINF:-1 group-title="Iran 4",Al Kawthar
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59652
-#EXTINF:-1 group-title="Iran 4",IR | BBC Farsi
+#EXTINF:-1 group-title="Iran 4",BBC Farsi
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59654
-#EXTINF:-1 group-title="Iran 4",IR | Caltex Music HD
+#EXTINF:-1 group-title="Iran 4",Caltex Music HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59655
-#EXTINF:-1 group-title="Iran 4",IR | EBC Music HD
+#EXTINF:-1 group-title="Iran 4",EBC Music HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59658
-#EXTINF:-1 group-title="Iran 4",IR | GEM Arabia SD
+#EXTINF:-1 group-title="Iran 4",GEM Arabia SD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59663
-#EXTINF:-1 group-title="Iran 4",IR | GEM AZ SD
+#EXTINF:-1 group-title="Iran 4",GEM AZ SD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59664
-#EXTINF:-1 group-title="Iran 4",IR | GEM Bollywood SD
+#EXTINF:-1 group-title="Iran 4",GEM Bollywood SD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59665
-#EXTINF:-1 group-title="Iran 4",IR | GEM Classic
+#EXTINF:-1 group-title="Iran 4",GEM Classic
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59666
-#EXTINF:-1 group-title="Iran 4",IR | GEM Comedy SD
+#EXTINF:-1 group-title="Iran 4",GEM Comedy SD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59667
-#EXTINF:-1 group-title="Iran 4",IR | GEM Drama
+#EXTINF:-1 group-title="Iran 4",GEM Drama
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59668
-#EXTINF:-1 group-title="Iran 4",IR | GEM Drama Plus HD
+#EXTINF:-1 group-title="Iran 4",GEM Drama Plus HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59669
-#EXTINF:-1 group-title="Iran 4",IR | GEM Life HD
+#EXTINF:-1 group-title="Iran 4",GEM Life HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59675
-#EXTINF:-1 group-title="Iran 4",IR | GEM Fit
+#EXTINF:-1 group-title="Iran 4",GEM Fit
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59678
-#EXTINF:-1 group-title="Iran 4",IR | GEM Teen
+#EXTINF:-1 group-title="Iran 4",GEM Teen
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59682
-#EXTINF:-1 group-title="Iran 4",IR | GEM Travel
+#EXTINF:-1 group-title="Iran 4",GEM Travel
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59683
-#EXTINF:-1 group-title="Iran 4",IR | GEM TV HD
+#EXTINF:-1 group-title="Iran 4",GEM TV HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59685
-#EXTINF:-1 group-title="Iran 4",IR | Honarmandan HD
+#EXTINF:-1 group-title="Iran 4",Honarmandan HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59687
-#EXTINF:-1 group-title="Iran 4",IR | IRIB iFilm Arabic
+#EXTINF:-1 group-title="Iran 4",IRIB iFilm Arabic
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59698
-#EXTINF:-1 group-title="Iran 4",IR | IRIB Sahand
+#EXTINF:-1 group-title="Iran 4",IRIB Sahand
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59709
-#EXTINF:-1 group-title="Iran 4",IR | IRIB Sahar
+#EXTINF:-1 group-title="Iran 4",IRIB Sahar
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59710
-#EXTINF:-1 group-title="Iran 4",IR | IRIB Varzesh HD
+#EXTINF:-1 group-title="Iran 4",IRIB Varzesh HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59714
-#EXTINF:-1 group-title="Iran 4",IR | Khane Film
+#EXTINF:-1 group-title="Iran 4",Khane Film
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59716
-#EXTINF:-1 group-title="Iran 4",IR | Khatereh
+#EXTINF:-1 group-title="Iran 4",Khatereh
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59717
-#EXTINF:-1 group-title="Iran 4",IR | Mihan TV
+#EXTINF:-1 group-title="Iran 4",Mihan TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59721
-#EXTINF:-1 group-title="Iran 4",IR | Mohabat TV
+#EXTINF:-1 group-title="Iran 4",Mohabat TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59722
-#EXTINF:-1 group-title="Iran 4",IR | Omid Javedan
+#EXTINF:-1 group-title="Iran 4",Omid Javedan
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59723
-#EXTINF:-1 group-title="Iran 4",IR | Payvand TV
+#EXTINF:-1 group-title="Iran 4",Payvand TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59725
-#EXTINF:-1 group-title="Iran 4",IR | PMC
+#EXTINF:-1 group-title="Iran 4",PMC
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59734
-#EXTINF:-1 group-title="Iran 4",IR | Salamat Tube TV HD
+#EXTINF:-1 group-title="Iran 4",Salamat Tube TV HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59739
-#EXTINF:-1 group-title="Iran 4",IR | SAT 7 Pars
+#EXTINF:-1 group-title="Iran 4",SAT 7 Pars
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59740
-#EXTINF:-1 group-title="Iran 4",IR | Simaye Azadi
+#EXTINF:-1 group-title="Iran 4",Simaye Azadi
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59741
-#EXTINF:-1 group-title="Iran 4",IR | Tapesh TV HD
+#EXTINF:-1 group-title="Iran 4",Tapesh TV HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59742
-#EXTINF:-1 group-title="Iran 4",IR | Tin TV HD
+#EXTINF:-1 group-title="Iran 4",Tin TV HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59743
-#EXTINF:-1 group-title="Iran 4",IR | Varzesh TV 2 HD
+#EXTINF:-1 group-title="Iran 4",Varzesh TV 2 HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59745
-#EXTINF:-1 group-title="Iran 4",IR | Velayat TV
+#EXTINF:-1 group-title="Iran 4",Velayat TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59749
-#EXTINF:-1 group-title="Iran 4",IR | Varzish Sport
+#EXTINF:-1 group-title="Iran 4",Varzish Sport
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59753
-#EXTINF:-1 group-title="Iran 4",IR | 247Box TV
+#EXTINF:-1 group-title="Iran 4",247Box TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59759
-#EXTINF:-1 group-title="Iran 4",IR | Ava Family HD
+#EXTINF:-1 group-title="Iran 4",Ava Family HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59761
-#EXTINF:-1 group-title="Iran 4",IR | Ava Series HD
+#EXTINF:-1 group-title="Iran 4",Ava Series HD
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59762
-#EXTINF:-1 group-title="Iran 4",IR | SL TV 1
+#EXTINF:-1 group-title="Iran 4",SL TV 1
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59765
-#EXTINF:-1 group-title="Iran 4",IR | SL TV 2
+#EXTINF:-1 group-title="Iran 4",SL TV 2
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59766
-#EXTINF:-1 group-title="Iran 4",IR | Music 1
+#EXTINF:-1 group-title="Iran 4",Music 1
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59770
-#EXTINF:-1 group-title="Iran 4",IR | Avang TV
+#EXTINF:-1 group-title="Iran 4",Avang TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59771
-#EXTINF:-1 group-title="Iran 4",IR | GEM Property
+#EXTINF:-1 group-title="Iran 4",GEM Property
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59772
-#EXTINF:-1 group-title="Iran 4",IR | GEM Nature
+#EXTINF:-1 group-title="Iran 4",GEM Nature
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59773
-#EXTINF:-1 group-title="Iran 4",IR | City TV
+#EXTINF:-1 group-title="Iran 4",City TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59775
-#EXTINF:-1 group-title="Iran 4",IR | Ecran TV
+#EXTINF:-1 group-title="Iran 4",Ecran TV
 http://pakiptv.top:8880/Official150/aeAKfGr8EA/59778
 
 
-#EXTINF:-1 group-title="Iran 5",IR | MUSIC HUB HD
+#EXTINF:-1 group-title="Iran 5",MUSIC HUB HD
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12348.ts
-#EXTINF:-1 group-title="Iran 5",IR | GEM CLASSIC
+#EXTINF:-1 group-title="Iran 5",GEM CLASSIC
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12349.ts
-#EXTINF:-1 group-title="Iran 5",IR | Radio Javan TV
+#EXTINF:-1 group-title="Iran 5",Radio Javan TV
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12350.ts
-#EXTINF:-1 group-title="Iran 5",IR | VoA TV Persian
+#EXTINF:-1 group-title="Iran 5",VoA TV Persian
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12351.ts
-#EXTINF:-1 group-title="Iran 5",IR | Radio Farda TV
+#EXTINF:-1 group-title="Iran 5",Radio Farda TV
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12352.ts
-#EXTINF:-1 group-title="Iran 5",IR | GEM Mifa HD
+#EXTINF:-1 group-title="Iran 5",GEM Mifa HD
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12353.ts
-#EXTINF:-1 group-title="Iran 5",IR | Andisheh tv
+#EXTINF:-1 group-title="Iran 5",Andisheh tv
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12354.ts
-#EXTINF:-1 group-title="Iran 5",IR | BBC Persian
+#EXTINF:-1 group-title="Iran 5",BBC Persian
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12355.ts
-#EXTINF:-1 group-title="Iran 5",IR | Manoto TV FHD
+#EXTINF:-1 group-title="Iran 5",Manoto TV FHD
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12356.ts
-#EXTINF:-1 group-title="Iran 5",IR | TV 24
+#EXTINF:-1 group-title="Iran 5",TV 24
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12357.ts
-#EXTINF:-1 group-title="Iran 5",IR | GEM ARABIA
+#EXTINF:-1 group-title="Iran 5",GEM ARABIA
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12358.ts
-#EXTINF:-1 group-title="Iran 5",IR | GEM Bollywood
+#EXTINF:-1 group-title="Iran 5",GEM Bollywood
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12359.ts
-#EXTINF:-1 group-title="Iran 5",IR | GEM Film HD
+#EXTINF:-1 group-title="Iran 5",GEM Film HD
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12360.ts
-#EXTINF:-1 group-title="Iran 5",IR | GEM JUNIOR
+#EXTINF:-1 group-title="Iran 5",GEM JUNIOR
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12361.ts
-#EXTINF:-1 group-title="Iran 5",IR | GEM Kids
+#EXTINF:-1 group-title="Iran 5",GEM Kids
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12362.ts
-#EXTINF:-1 group-title="Iran 5",IR | GEM Life
+#EXTINF:-1 group-title="Iran 5",GEM Life
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12363.ts
-#EXTINF:-1 group-title="Iran 5",IR | GEM SERIES +  HD
+#EXTINF:-1 group-title="Iran 5",GEM SERIES +  HD
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12364.ts
-#EXTINF:-1 group-title="Iran 5",IR | GEM SERIES + ( Back UP)
+#EXTINF:-1 group-title="Iran 5",GEM SERIES + ( Back UP)
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12365.ts
-#EXTINF:-1 group-title="Iran 5",IR | GEM Travel
+#EXTINF:-1 group-title="Iran 5",GEM Travel
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12366.ts
-#EXTINF:-1 group-title="Iran 5",IR | GEM Comedy
+#EXTINF:-1 group-title="Iran 5",GEM Comedy
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12367.ts
-#EXTINF:-1 group-title="Iran 5",IR | GEM TV
+#EXTINF:-1 group-title="Iran 5",GEM TV
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12368.ts
-#EXTINF:-1 group-title="Iran 5",IRIB | TV 1
+#EXTINF:-1 group-title="Iran 5",TV 1
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12369.ts
-#EXTINF:-1 group-title="Iran 5",IRIB | TV 1 (Back up)
+#EXTINF:-1 group-title="Iran 5",TV 1 (Back up)
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12370.ts
-#EXTINF:-1 group-title="Iran 5",IRIB | TV 2
+#EXTINF:-1 group-title="Iran 5",TV 2
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12371.ts
-#EXTINF:-1 group-title="Iran 5",IRIB | TV 3
+#EXTINF:-1 group-title="Iran 5",TV 3
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12372.ts
-#EXTINF:-1 group-title="Iran 5",IRIB | TV 4
+#EXTINF:-1 group-title="Iran 5",TV 4
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12373.ts
-#EXTINF:-1 group-title="Iran 5",IRIB | TV 5
+#EXTINF:-1 group-title="Iran 5",TV 5
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12374.ts
-#EXTINF:-1 group-title="Iran 5",IRIB | Varzesh TV
+#EXTINF:-1 group-title="Iran 5",Varzesh TV
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12375.ts
-#EXTINF:-1 group-title="Iran 5",IRIB | IRINN (NEWS)
+#EXTINF:-1 group-title="Iran 5",IRINN (NEWS)
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12376.ts
-#EXTINF:-1 group-title="Iran 5",IRIB | Nasim TV
+#EXTINF:-1 group-title="Iran 5",Nasim TV
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12377.ts
-#EXTINF:-1 group-title="Iran 5",IRIB | Namayesh TV
+#EXTINF:-1 group-title="Iran 5",Namayesh TV
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12378.ts
-#EXTINF:-1 group-title="Iran 5",IR | HODHOD HD
+#EXTINF:-1 group-title="Iran 5",HODHOD HD
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12379.ts
-#EXTINF:-1 group-title="Iran 5",IRIB | Hispan TV
+#EXTINF:-1 group-title="Iran 5",Hispan TV
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12380.ts
-#EXTINF:-1 group-title="Iran 5",IR | TV AZADI
+#EXTINF:-1 group-title="Iran 5",TV AZADI
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12381.ts
-#EXTINF:-1 group-title="Iran 5",IR | Tapesh TV
+#EXTINF:-1 group-title="Iran 5",Tapesh TV
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12382.ts
-#EXTINF:-1 group-title="Iran 5",IR | Simaye Azadi
+#EXTINF:-1 group-title="Iran 5",Simaye Azadi
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12383.ts
-#EXTINF:-1 group-title="Iran 5",IR | MY MOVIE
+#EXTINF:-1 group-title="Iran 5",MY MOVIE
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12385.ts
-#EXTINF:-1 group-title="Iran 5",IR | Oxir
+#EXTINF:-1 group-title="Iran 5",Oxir
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12386.ts
-#EXTINF:-1 group-title="Iran 5",IR | Prima TV HD
+#EXTINF:-1 group-title="Iran 5",Prima TV HD
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12387.ts
-#EXTINF:-1 group-title="Iran 5",IR | SEVEN TV ( Shabakeh 7)
+#EXTINF:-1 group-title="Iran 5",SEVEN TV ( Shabakeh 7)
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12388.ts
-#EXTINF:-1 group-title="Iran 5",IRIB | iFilm English
+#EXTINF:-1 group-title="Iran 5",iFilm English
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12389.ts
-#EXTINF:-1 group-title="Iran 5",IRIB | iFilm TV AR
+#EXTINF:-1 group-title="Iran 5",iFilm TV AR
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12390.ts
-#EXTINF:-1 group-title="Iran 5",IR | ITN TV
+#EXTINF:-1 group-title="Iran 5",ITN TV
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12391.ts
-#EXTINF:-1 group-title="Iran 5",IR | Mohabat
+#EXTINF:-1 group-title="Iran 5",Mohabat
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12392.ts
-#EXTINF:-1 group-title="Iran 5",IRIB | Pooya TV
+#EXTINF:-1 group-title="Iran 5",Pooya TV
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12393.ts
-#EXTINF:-1 group-title="Iran 5",IR | Iran International FHD
+#EXTINF:-1 group-title="Iran 5",Iran International FHD
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12394.ts
-#EXTINF:-1 group-title="Iran 5",IRIB | Imam Reza TV (live)
+#EXTINF:-1 group-title="Iran 5",Imam Reza TV (live)
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12395.ts
-#EXTINF:-1 group-title="Iran 5",IRIB | Shoma TV
+#EXTINF:-1 group-title="Iran 5",Shoma TV
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12396.ts
-#EXTINF:-1 group-title="Iran 5",IR | Omid Javedan
+#EXTINF:-1 group-title="Iran 5",Omid Javedan
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/12397.ts
+
+
+#EXTINF:-1 group-title="Iran 6",PERSIAN VIP Radio
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/576.ts
+#EXTINF:-1 group-title="Iran 6",24 Box TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/577.ts
+#EXTINF:-1 group-title="Iran 6",Ava Family HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/578.ts
+#EXTINF:-1 group-title="Iran 6",AVA Music
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/579.ts
+#EXTINF:-1 group-title="Iran 6",Ava Series HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/580.ts
+#EXTINF:-1 group-title="Iran 6",Ayeneh TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/581.ts
+#EXTINF:-1 group-title="Iran 6",BBC Persian
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/582.ts
+#EXTINF:-1 group-title="Iran 6",Cine Series HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/583.ts
+#EXTINF:-1 group-title="Iran 6",Damac Persian Tv
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/584.ts
+#EXTINF:-1 group-title="Iran 6",ESHRAGH
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/585.ts
+#EXTINF:-1 group-title="Iran 6",Ganj e Hozoor TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/586.ts
+#EXTINF:-1 group-title="Iran 6",Gem AZ 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/587.ts
+#EXTINF:-1 group-title="Iran 6",Gem Bollywood HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/588.ts
+#EXTINF:-1 group-title="Iran 6",Gem Classic
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/589.ts
+#EXTINF:-1 group-title="Iran 6",Gem Comedy HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/590.ts
+#EXTINF:-1 group-title="Iran 6",Gem Drama HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/591.ts
+#EXTINF:-1 group-title="Iran 6",Gem Drama plus HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/592.ts
+#EXTINF:-1 group-title="Iran 6",Gem Film HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/593.ts
+#EXTINF:-1 group-title="Iran 6",Gem Fit
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/594.ts
+#EXTINF:-1 group-title="Iran 6",Gem Food HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/595.ts
+#EXTINF:-1 group-title="Iran 6",Gem Junior HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/596.ts
+#EXTINF:-1 group-title="Iran 6",Gem Kids HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/597.ts
+#EXTINF:-1 group-title="Iran 6",Gem Latino TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/598.ts
+#EXTINF:-1 group-title="Iran 6",Gem Life HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/599.ts
+#EXTINF:-1 group-title="Iran 6",GEM NATURE
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/600.ts
+#EXTINF:-1 group-title="Iran 6",Gem Onyx HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/601.ts
+#EXTINF:-1 group-title="Iran 6",Gem Plus HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/602.ts
+#EXTINF:-1 group-title="Iran 6",GEM PROPERTY
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/603.ts
+#EXTINF:-1 group-title="Iran 6",Gem RIVER HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/604.ts
+#EXTINF:-1 group-title="Iran 6",Gem River HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/605.ts
+#EXTINF:-1 group-title="Iran 6",Gem Rubix HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/606.ts
+#EXTINF:-1 group-title="Iran 6",Gem Rubix Plus HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/607.ts
+#EXTINF:-1 group-title="Iran 6",Gem Series HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/608.ts
+#EXTINF:-1 group-title="Iran 6",Gem Travel HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/609.ts
+#EXTINF:-1 group-title="Iran 6",Gem TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/610.ts
+#EXTINF:-1 group-title="Iran 6",GEM USA HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/611.ts
+#EXTINF:-1 group-title="Iran 6",Hispan TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/612.ts
+#EXTINF:-1 group-title="Iran 6",I Film
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/613.ts
+#EXTINF:-1 group-title="Iran 6",IFilm 2
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/614.ts
+#EXTINF:-1 group-title="Iran 6",iFILM ENGLISH
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/615.ts
+#EXTINF:-1 group-title="Iran 6",iFILM HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/616.ts
+#EXTINF:-1 group-title="Iran 6",IFilm Persian
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/617.ts
+#EXTINF:-1 group-title="Iran 6",Imamhussein 1 FA TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/618.ts
+#EXTINF:-1 group-title="Iran 6",Int'l (GB)
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/619.ts
+#EXTINF:-1 group-title="Iran 6",Iran Farda HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/620.ts
+#EXTINF:-1 group-title="Iran 6",Iran International
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/621.ts
+#EXTINF:-1 group-title="Iran 6",Iran TV Israel Live
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/622.ts
+#EXTINF:-1 group-title="Iran 6",IRIB AMOOZESH HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/623.ts
+#EXTINF:-1 group-title="Iran 6",IRIB Golestan
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/624.ts
+#EXTINF:-1 group-title="Iran 6",IRIB Iran Kala
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/625.ts
+#EXTINF:-1 group-title="Iran 6",IRIB IRINN
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/626.ts
+#EXTINF:-1 group-title="Iran 6",IRIB Jame Jam
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/627.ts
+#EXTINF:-1 group-title="Iran 6",IRIB Kermansha
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/628.ts
+#EXTINF:-1 group-title="Iran 6",IRIB Khalij
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/629.ts
+#EXTINF:-1 group-title="Iran 6",IRIB Kurdistan
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/630.ts
+#EXTINF:-1 group-title="Iran 6",IRIB Mahabad
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/631.ts
+#EXTINF:-1 group-title="Iran 6",IRIB Namayesh
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/632.ts
+#EXTINF:-1 group-title="Iran 6",IRIB Nasim
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/633.ts
+#EXTINF:-1 group-title="Iran 6",IRIB OFOGH
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/634.ts
+#EXTINF:-1 group-title="Iran 6",IRIB OFOGH TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/635.ts
+#EXTINF:-1 group-title="Iran 6",IRIB QURAN
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/636.ts
+#EXTINF:-1 group-title="Iran 6",IRIB SALAMAT
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/637.ts
+#EXTINF:-1 group-title="Iran 6",IRIB TV 1
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/639.ts
+#EXTINF:-1 group-title="Iran 6",IRIB TV 2
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/640.ts
+#EXTINF:-1 group-title="Iran 6",IRIB TV 3
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/641.ts
+#EXTINF:-1 group-title="Iran 6",IRIB TV 3 ( FOOTBALL EVENT )
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/642.ts
+#EXTINF:-1 group-title="Iran 6",IRIB TV 4
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/643.ts
+#EXTINF:-1 group-title="Iran 6",IRIB TV 5
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/644.ts
+#EXTINF:-1 group-title="Iran 6",IRIB Varzesh HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/645.ts
+#EXTINF:-1 group-title="Iran 6",JAMEJAM1
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/646.ts
+#EXTINF:-1 group-title="Iran 6",KHURSHID TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/647.ts
+#EXTINF:-1 group-title="Iran 6",Manoto Plus HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/648.ts
+#EXTINF:-1 group-title="Iran 6",Manoto TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/649.ts
+#EXTINF:-1 group-title="Iran 6",Maxx HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/650.ts
+#EXTINF:-1 group-title="Iran 6",Mifa Music TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/651.ts
+#EXTINF:-1 group-title="Iran 6",Mihan TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/652.ts
+#EXTINF:-1 group-title="Iran 6",Modern Economey HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/653.ts
+#EXTINF:-1 group-title="Iran 6",Mohabat TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/654.ts
+#EXTINF:-1 group-title="Iran 6",Mostanad HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/655.ts
+#EXTINF:-1 group-title="Iran 6",Navahang 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/656.ts
+#EXTINF:-1 group-title="Iran 6",Navahang HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/657.ts
+#EXTINF:-1 group-title="Iran 6",Payvand TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/659.ts
+#EXTINF:-1 group-title="Iran 6",Persian Bazar
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/660.ts
+#EXTINF:-1 group-title="Iran 6",Persiana 1
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/661.ts
+#EXTINF:-1 group-title="Iran 6",Persiana 4
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/662.ts
+#EXTINF:-1 group-title="Iran 6",Persiana Billboard
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/663.ts
+#EXTINF:-1 group-title="Iran 6",TOONIX HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/664.ts
+#EXTINF:-1 group-title="Iran 6",Towheed Tv
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/665.ts
+#EXTINF:-1 group-title="Iran 6",Varzish 1 tv
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/666.ts
+#EXTINF:-1 group-title="Iran 6",Varzosh 2 TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/667.ts
+#EXTINF:-1 group-title="Iran 6",Varzosh 3 TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/668.ts
 
 
 
